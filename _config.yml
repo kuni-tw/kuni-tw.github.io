@@ -1,0 +1,36 @@
+# Site settings
+title: KUNI's Blog
+description: 從 PIXNET 遷移的部落格
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Permalink format
+permalink: /:year/:month/:day/:title/
+
+# Exclude files
+exclude:
+  - scraper.py
+  - requirements.txt
+  - README.md
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Pagination (if needed)
+paginate: 10
+paginate_path: "/page:num/"

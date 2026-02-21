@@ -1,0 +1,51 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv
+env/
+venv/
+.DS_Store
+*.log
+.idea/
+.vscode/
+_site/
+.jekyll-cache/
+.sass-cache/
+Gemfile.lock
+
+# 暫時排除圖片（太大，需分批處理）
+# assets/images/
+
+# 工具腳本（不需要上傳到網站）
+scraper.py
+test_image_download.py
+download_missing.py
+check_*.py
+final_check.py
+wait_and_check.py
+batch_commit.sh
+missing_posts.txt
+failed_downloads.txt
+download_progress.log
+download_status_report.md
+GIT_UPLOAD_STRATEGY.md
+nohup.out
+
+# 暫時排除圖片（太大，需分批處理）
+# assets/images/
+
+# 工具腳本（不需要上傳）
+scraper.py
+test_image_download.py
+download_missing.py
+check_*.py
+final_check.py
+wait_and_check.py
+missing_posts.txt
+failed_downloads.txt
+download_progress.log
+download_status_report.md
+nohup.out
