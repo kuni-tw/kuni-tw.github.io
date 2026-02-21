@@ -1,0 +1,174 @@
+Configuration file: /Users/aki_yu/Downloads/kuni/_config.yml
+[33m       Deprecation: You appear to have pagination turned on, but you haven't included the `jekyll-paginate` gem. Ensure you have `plugins: [jekyll-paginate]` in your configuration file. [0m
+            Source: /Users/aki_yu/Downloads/kuni
+       Destination: /Users/aki_yu/Downloads/kuni/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "minima";
+  │         ^^^^^^^^
+  ╵
+    /Users/aki_yu/Downloads/kuni/assets/main.scss 1:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+48 │   "minima/base",
+   │   ^^^^^^^^^^^^^
+   ╵
+    minima.scss 48:3                                   @import
+    /Users/aki_yu/Downloads/kuni/assets/main.scss 1:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+49 │   "minima/layout",
+   │   ^^^^^^^^^^^^^^^
+   ╵
+    minima.scss 49:3                                   @import
+    /Users/aki_yu/Downloads/kuni/assets/main.scss 1:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+50 │   "minima/syntax-highlighting"
+   │   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima.scss 50:3                                   @import
+    /Users/aki_yu/Downloads/kuni/assets/main.scss 1:9  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+18 │ $grey-color-light: lighten($grey-color, 40%) !default;
+   │                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima.scss 18:20                                  @import
+    /Users/aki_yu/Downloads/kuni/assets/main.scss 1:9  root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 81.6%)
+color.adjust($color, $lightness: 40%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+18 │ $grey-color-light: lighten($grey-color, 40%) !default;
+   │                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima.scss 18:20                                  @import
+    /Users/aki_yu/Downloads/kuni/assets/main.scss 1:9  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+19 │ $grey-color-dark:  darken($grey-color, 25%) !default;
+   │                    ^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima.scss 19:20                                  @import
+    /Users/aki_yu/Downloads/kuni/assets/main.scss 1:9  root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -49.0384615385%)
+color.adjust($color, $lightness: -25%)
+
+More info: https://sass-lang.com/d/color-functions
+
+   ╷
+19 │ $grey-color-dark:  darken($grey-color, 25%) !default;
+   │                    ^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    minima.scss 19:20                                  @import
+    /Users/aki_yu/Downloads/kuni/assets/main.scss 1:9  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+110 │     color: darken($brand-color, 15%);
+    │            ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.2/_sass/minima/_base.scss 110:12  @import
+    minima.scss 48:3                                         @import
+    /Users/aki_yu/Downloads/kuni/assets/main.scss 1:9        root stylesheet
+DEPRECATION WARNING [color-functions]: darken() is deprecated. Suggestions:
+
+color.scale($color, $lightness: -28.5447761194%)
+color.adjust($color, $lightness: -15%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+110 │     color: darken($brand-color, 15%);
+    │            ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.2/_sass/minima/_base.scss 110:12  @import
+    minima.scss 48:3                                         @import
+    /Users/aki_yu/Downloads/kuni/assets/main.scss 1:9        root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+235 │   color: lighten($text-color, 18%);
+    │          ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.2/_sass/minima/_base.scss 235:10  @import
+    minima.scss 48:3                                         @import
+    /Users/aki_yu/Downloads/kuni/assets/main.scss 1:9        root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 19.2857142857%)
+color.adjust($color, $lightness: 18%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+235 │   color: lighten($text-color, 18%);
+    │          ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.2/_sass/minima/_base.scss 235:10  @import
+    minima.scss 48:3                                         @import
+    /Users/aki_yu/Downloads/kuni/assets/main.scss 1:9        root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use color.adjust instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+240 │       background-color: lighten($grey-color-light, 6%);
+    │                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.2/_sass/minima/_base.scss 240:25  @import
+    minima.scss 48:3                                         @import
+    /Users/aki_yu/Downloads/kuni/assets/main.scss 1:9        root stylesheet
+DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
+
+color.scale($color, $lightness: 66.5217391304%)
+color.adjust($color, $lightness: 6%)
+
+More info: https://sass-lang.com/d/color-functions
+
+    ╷
+240 │       background-color: lighten($grey-color-light, 6%);
+    │                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.2/_sass/minima/_base.scss 240:25  @import
+    minima.scss 48:3                                         @import
+    /Users/aki_yu/Downloads/kuni/assets/main.scss 1:9        root stylesheet
+WARNING: 6 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
