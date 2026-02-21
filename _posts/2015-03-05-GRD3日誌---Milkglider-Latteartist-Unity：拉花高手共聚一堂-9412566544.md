@@ -89,14 +89,4 @@ post_id: '9412566544'
 <p><span><img alt="圖片 7" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9412566544/1425398399-346074913.jpg"/>  </span></p>
 <p><span> </span></p>
 <p> </p>
-<p><span>相關延伸閱讀：</span></p>
-<p><span>4Mano Caffe：此地似乎不宜久留<br/><a href="http://kuni.pixnet.net/blog/post/411815353" target="_blank">http://kuni.pixnet.net/blog/post/411815353</a></span></p>
-<p><span>立裴米緹咖啡館L'apres-midi(新館)<br/><a href="http://kuni.pixnet.net/blog/post/294998882" target="_blank">http://kuni.pixnet.net/blog/post/294998882</a></span></p>
-<p><span>Sunny Cafe:意外合胃口的古巴三明治</span><br/><span><a href="http://kuni.pixnet.net/blog/post/409004851" target="_blank">http://kuni.pixnet.net/blog/post/409004851</a></span></p>
-<p><span>ATTS COFFEE 伊藤咖啡：細心的老闆</span><br/><span><a href="http://kuni.pixnet.net/blog/post/387231494" target="_blank">http://kuni.pixnet.net/blog/post/387231494</a></span></p>
-<p><span>魚缸咖啡(魚缸珈琲) Coffish</span><br/><span><a href="http://kuni.pixnet.net/blog/post/370914230" target="_blank">http://kuni.pixnet.net/blog/post/370914230</a></span></p>
-<p><span>Fika Fika Cafe 北歐風咖啡時光</span><br/><span><a href="http://kuni.pixnet.net/blog/post/295004732" target="_blank">http://kuni.pixnet.net/blog/post/295004732</a></span></p>
-<p><span>巢 Nido Cafe</span><br/><span><a href="http://kuni.pixnet.net/blog/post/295000673" target="_blank">http://kuni.pixnet.net/blog/post/295000673</a></span></p>
-<p><span> </span></p>
-<p><span> by GRD3 and KUNI</span></p>
 <p><span>.</span></p></div>

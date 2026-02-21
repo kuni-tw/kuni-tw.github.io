@@ -155,15 +155,5 @@ post_id: '9373752767'
 <p> </p>
 <p><span><strong>我的FB粉絲團：</strong></span><br/><span><strong><a href="https://www.facebook.com/KUNIwithGourmet" target="_blank">https://www.facebook.com/KUNIwithGourmet</a></strong></span></p>
 <p> </p>
-<p><span>相關延伸閱讀：(請用滑鼠點選)</span></p>
-<p><span>新星味：新加坡私房料理</span><br/><span><a href="http://kuni.pixnet.net/blog/post/372935474" target="_blank">http://kuni.pixnet.net/blog/post/372935474</a></span></p>
-<p><span>東方文華 義式餐廳Bencotto</span><br/><span><a href="http://kuni.pixnet.net/blog/post/369931496" target="_blank">http://kuni.pixnet.net/blog/post/369931496</a></span></p>
-<p><span>La Festa周年慶：美食與小提琴之夜</span><br/><span><a href="http://kuni.pixnet.net/blog/post/295006568" target="_blank">http://kuni.pixnet.net/blog/post/295006568</a></span></p>
-<p><span>香港四季酒店Caprice：高貴嫩煮鴨胸</span><br/><span><a href="http://kuni.pixnet.net/blog/post/295003790" target="_blank">http://kuni.pixnet.net/blog/post/295003790</a></span></p>
-<p><span>麗禧酒店歐陸餐廳：爐烤鴨胸套餐</span><br/><span><a href="http://kuni.pixnet.net/blog/post/308201573" target="_blank">http://kuni.pixnet.net/blog/post/308201573</a></span></p>
-<p><span>L'atelier Robuchon：名廚來台的香煎澳洲和牛肋眼9+</span><br/><span><a href="http://kuni.pixnet.net/blog/post/296732951" target="_blank">http://kuni.pixnet.net/blog/post/296732951</a></span></p>
-<p><span>犇和牛館：AA12近江級澳洲和牛</span><br/><span><a href="http://kuni.pixnet.net/blog/post/362880449" target="_blank">http://kuni.pixnet.net/blog/post/362880449</a></span></p>
-<p><span>教父牛排：爐烤prime級美牛肋眼</span><br/><span><a href="http://kuni.pixnet.net/blog/post/295005041" target="_blank">http://kuni.pixnet.net/blog/post/295005041</a></span></p>
-<p><span> </span></p>
 <p><span>by GRD3 and KUNI</span></p>
 <p><span>.</span></p></div>

@@ -56,11 +56,4 @@ post_id: '9295006466'
 <p><span><br/><br/><br/><br/><br/><br/>　(甜點才是SEASON的強項呀)</span></p>
 <p><span><br/><br/><br/><br/><br/><br/><br/>　(水果亮麗繽紛)</span></p>
 <p><span><br/><br/><br/><br/><br/><br/>　(少見地好切)</span></p>
-<p><span><br/><br/><br/>　<br/><br/><br/><br/><br/>　相關延伸閱讀：(請用滑鼠點選)</span></p>
-<p><span>　麗禧溫泉酒店歐陸餐廳<br/>　<a href="http://www.wretch.cc/blog/kuni/12275153">http://www.wretch.cc/blog/kuni/12275153</a></span></p>
-<p><span>　四季酒店Caprice：高貴的嫩煮鴨胸<br/>　<a href="http://www.wretch.cc/blog/kuni/11711584">http://www.wretch.cc/blog/kuni/11711584</a></span></p>
-<p><span>　馬可波羅：台北頂級義式燉飯<br/>　<a href="http://www.wretch.cc/blog/kuni/11687887">http://www.wretch.cc/blog/kuni/11687887</a></span></p>
-<p><span>　La Festa：阿爾巴白松露饗宴<br/>　<a href="http://www.wretch.cc/blog/kuni/11682999">http://www.wretch.cc/blog/kuni/11682999</a></span></p>
-<p><span>　黑米 Cafe BISTRO：墨魚燉飯<br/>　<a href="http://www.wretch.cc/blog/kuni/11873682">http://www.wretch.cc/blog/kuni/11873682</a></span></p>
-<p><span>　門卡迪的優質義式燉飯<br/>　<a href="http://www.wretch.cc/blog/kuni/11840701">http://www.wretch.cc/blog/kuni/11840701</a></span></p>
 <p><span>　Breeze Cafe 微風餐坊:平價義式燉飯<br/>　<a href="http://www.wretch.cc/blog/kuni/11774831">http://www.wretch.cc/blog/kuni/11774831</a><br/><br/><br/>by theGR and KUNI<br/><br/><br/>.</span></p></div>

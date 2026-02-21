@@ -121,21 +121,5 @@ post_id: '9426967250'
 <p><span><strong>總算能把那鬱悶的口氣給吐了出來，</strong></span></p>
 <p><span>晚安，L先生。</span></p>
 <p><span> </span></p>
-<p><br/><span>相關延伸閱讀：</span></p>
-<p><span>RAW餐廳：由江振誠領軍來台的Bistronomy</span><br/><span><a href="http://kuni.pixnet.net/blog/post/413482429-grd3%E6%97%A5%E8%AA%8C---25022015-raw%E9%A4%90%E5%BB%B3%EF%BC%9A%E7%94%B1%E6%B1%9F%E6%8C%AF%E8%AA%A0%E9%A0%98%E8%BB%8D%E4%BE%86%E5%8F%B0" target="_blank">http://kuni.pixnet.net/blog/post/413482429</a></span></p>
-<p><span>祥雲龍吟：走在世界雲端的味覺</span><br/><span><a href="http://kuni.pixnet.net/blog/post/394834721-grd3%E6%97%A5%E8%AA%8C---11102014-%E7%A5%A5%E9%9B%B2%E9%BE%8D%E5%90%9F%EF%BC%9A%E8%B5%B0%E5%9C%A8%E4%B8%96%E7%95%8C%E9%A0%82%E7%AB%AF%E7%9A%84" target="_blank">http://kuni.pixnet.net/blog/post/394834721</a></span></p>
-<p><span>花園酒店Prime One:乾式熟成吃到飽</span><br/><span><a href="http://kuni.pixnet.net/blog/post/408705529-grd3%E6%97%A5%E8%AA%8C---28122014-%E8%8A%B1%E5%9C%92%E5%A4%A7%E9%85%92%E5%BA%97prime-one%EF%BC%9A%E4%B9%BE%E5%BC%8F%E7%86%9F" target="_blank">http://kuni.pixnet.net/blog/post/408705529</a></span></p>
-<p><span>貓下去計劃：令人驚豔的CHOICE肋眼</span><br/><span><a href="http://kuni.pixnet.net/blog/post/404405689-grd3%E6%97%A5%E8%AA%8C---31102014-%E8%B2%93%E4%B8%8B%E5%8E%BB%E8%A8%88%E5%8A%83%EF%BC%9A%E4%BB%A4%E4%BA%BA%E9%A9%9A%E8%B1%94%E7%9A%84choic" target="_blank">http://kuni.pixnet.net/blog/post/404405689</a></span></p>
-<p><span>西華Toscana：老牌乾式熟成重鎮</span><br/><span><a href="http://kuni.pixnet.net/blog/post/397737502-grd3%E6%97%A5%E8%AA%8C---26102014-%E8%A5%BF%E8%8F%AFtoscana%EF%BC%9A%E8%80%81%E7%89%8C%E4%B9%BE%E5%BC%8F%E7%86%9F%E6%88%90%E9%87%8D" target="_blank">http://kuni.pixnet.net/blog/post/397737502</a></span></p>
-<p><span>L'atelier Robuchon：名廚來台的香煎澳洲和牛肋眼9+</span><br/><span><a href="http://kuni.pixnet.net/blog/post/296732951-grd3%E6%97%A5%E8%AA%8C---23102013-%E4%B8%96%E7%B4%80%E5%90%8D%E5%BB%9Arobuchon%E5%85%88%E7%94%9F%E4%BE%86%E5%8F%B0%E9%99%90%E5%AE%9A" target="_blank">http://kuni.pixnet.net/blog/post/296732951</a></span></p>
-<p><span>維多麗亞168牛排館:十二月新菜色</span><br/><span><a href="http://kuni.pixnet.net/blog/post/338142755-grd3%E6%97%A5%E8%AA%8C---26122013-%E7%B6%AD%E5%A4%9A%E9%BA%97%E4%BA%9Eno.168%E7%89%9B%E6%8E%92%E9%A4%A8%EF%BC%9A%E5%8D%81%E4%BA%8C" target="_blank">http://kuni.pixnet.net/blog/post/338142755</a></span></p>
-<p><span>Fresh &amp; Aged：限量咖啡碳香加拿大風味去骨牛小排</span><br/><span><a href="http://kuni.pixnet.net/blog/post/304783589-grd3%E6%97%A5%E8%AA%8C---15112013-fresh-%26-aged%EF%BC%9A%E9%99%90%E9%87%8F%E5%92%96%E5%95%A1%E7%A2%B3%E9%A6%99%E5%8A%A0" target="_blank">http://kuni.pixnet.net/blog/post/304783589</a></span></p>
-<p><span>麗禧溫泉酒店歐陸餐廳：精緻爐烤鴨胸商業午餐</span><br/><span><a href="http://kuni.pixnet.net/blog/post/308201573-grd3%E6%97%A5%E8%AA%8C---18112013-%E9%BA%97%E7%A6%A7%E6%BA%AB%E6%B3%89%E9%85%92%E5%BA%97%E6%AD%90%E9%99%B8%E9%A4%90%E5%BB%B3%EF%BC%9A%E7%B2%BE" target="_blank">http://kuni.pixnet.net/blog/post/308201573</a></span></p>
-<p><span>教父牛排：令人驚艷的高檔牛排</span><br/><span><a href="http://kuni.pixnet.net/blog/post/295005041-grd3%E6%97%A5%E8%AA%8C---19052013-%E6%95%99%E7%88%B6%E7%89%9B%E6%8E%92%EF%BC%9A%E4%BB%A4%E4%BA%BA%E9%A9%9A%E8%89%B7%E7%9A%84%E9%AB%98%E6%AA%94" target="_blank">http://kuni.pixnet.net/blog/post/295005041</a></span></p>
-<p><span>三二行館：美妙生日饗宴</span><br/><span><a href="http://kuni.pixnet.net/blog/post/295004396-grd4%E6%97%A5%E8%AA%8C---02022013-%E4%B8%89%E4%BA%8C%E8%A1%8C%E9%A4%A8%EF%BC%9A%E7%BE%8E%E5%A6%99%E7%9A%84%E7%94%9F%E6%97%A5%E9%A5%97%E5%AE%B4" target="_blank">http://kuni.pixnet.net/blog/post/295004396</a></span></p>
-<p><span>Lawry's：勞瑞斯的商業午餐</span><br/><span><a href="http://kuni.pixnet.net/blog/post/295003862-grd%E6%97%A5%E8%AA%8C---01102012-lawry's%EF%BC%9A%E5%8B%9E%E7%91%9E%E6%96%AF%E7%9A%84%E5%95%86%E6%A5%AD%E5%8D%88%E9%A4%90" target="_blank">http://kuni.pixnet.net/blog/post/295003862</a></span></p>
-<p><span>四季酒店Caprice：高貴鴨胸</span><br/><span><a href="http://kuni.pixnet.net/blog/post/295003790-grd%E6%97%A5%E8%AA%8C---12092012-%E5%9B%9B%E5%AD%A3%E9%85%92%E5%BA%97caprice%EF%BC%9A%E9%AB%98%E8%B2%B4%E7%9A%84%E9%B4%A8%E8%83%B8(" target="_blank">http://kuni.pixnet.net/blog/post/295003790</a></span></p>
-<p><span> </span></p>
-<p><span> </span></p>
 <p><span>by GRD3 and KUNI</span></p>
 <p><span>.</span></p></div>

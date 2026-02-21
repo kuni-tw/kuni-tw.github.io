@@ -122,12 +122,6 @@ post_id: '9367240283'
 <p><span>(真希望有機會我也能收到這樣的伴手禮呀！)</span></p>
 <p><span><img alt="圖片 19" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9367240283/1400191765-2014813328.jpg"/>  </span></p>
 <p> </p>
-<p><span>相關延伸閱讀：(請用滑鼠點選)</span></p>
-<p><span>板橋知名的好初早餐</span><br/><span><a href="http://kuni.pixnet.net/blog/post/358433576" target="_blank">http://kuni.pixnet.net/blog/post/358433576</a></span></p>
-<p><span>KONAYUKI 粉雪 北海道Style Cafe</span><br/><span><a href="http://kuni.pixnet.net/blog/post/326413106" target="_blank">http://kuni.pixnet.net/blog/post/326413106</a></span></p>
-<p><span>Twelve Cupcakes杯子蛋糕專門店</span><br/><span><a href="http://kuni.pixnet.net/blog/post/366536270" target="_blank">http://kuni.pixnet.net/blog/post/366536270</a></span></p>
-<p><span>杏桃鬆餅屋 UZNA OMOM</span><br/><span><a href="http://kuni.pixnet.net/blog/post/295005062" target="_blank">http://kuni.pixnet.net/blog/post/295005062</a></span></p>
-<p><span> </span></p>
 <p><span>by GRD3 and KUNI</span></p>
 <p> </p>
 <p><span>.</span></p></div>

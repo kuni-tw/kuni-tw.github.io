@@ -86,8 +86,4 @@ post_id: '9448310960'
 <p><span>插播一首凡格羅夫的Thais，大家晚安：</span></p>
 <p></p>
 <p> </p>
-<p>相關延伸閱讀：(請用滑鼠點選)</p>
-<p>希拉蕊韓在台北 01/2015：牛耳藝術愈來愈難看了<br/><a href="http://kuni.pixnet.net/blog/post/406805644-%E5%B8%8C%E6%8B%89%E8%95%8A%E9%9F%93%E5%9C%A8%E5%8F%B0%E5%8C%97-01-2015%EF%BC%9A%E7%89%9B%E8%80%B3%E8%97%9D%E8%A1%93%E6%84%88%E4%BE%86%E6%84%88%E9%9B%A3%E7%9C%8B" target="_blank">http://kuni.pixnet.net/blog/post/406805644</a><br/><span>小提琴大師謝霖1974年大師班<br/></span><a href="http://kuni.pixnet.net/blog/post/384774257" target="_blank">http://kuni.pixnet.net/blog/post/384774257<br/></a><span>Isabelle Faust 台灣獨奏會2014<br/></span><a href="http://kuni.pixnet.net/blog/post/376672724" target="_blank">http://kuni.pixnet.net/blog/post/376672724<br/></a><span>希拉蕊韓來台演出西貝流士<br/></span><a href="http://kuni.pixnet.net/blog/post/306370361" target="_blank">http://kuni.pixnet.net/blog/post/306370361<br/></a><span>祖克曼 台北獨奏與室內音樂會<br/></span><a href="http://kuni.pixnet.net/blog/post/295004498" target="_blank">http://kuni.pixnet.net/blog/post/295004498<br/></a><span>安‧蘇菲‧慕特小提琴協奏曲之夜<br/></span><a href="http://kuni.pixnet.net/blog/post/295004051" target="_blank">http://kuni.pixnet.net/blog/post/295004051<br/></a><span>夏漢的台北場巴哈無伴奏<br/></span><a href="http://kuni.pixnet.net/blog/post/295002476" target="_blank">http://kuni.pixnet.net/blog/post/295002476<br/></a><span>帕爾曼小提琴獨奏會<br/></span><a href="http://kuni.pixnet.net/blog/post/295001840" target="_blank">http://kuni.pixnet.net/blog/post/295001840</a></p>
-<p> </p>
-<p> </p>
 <p>by KUNI</p></div>

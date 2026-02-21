@@ -122,13 +122,6 @@ post_id: '9407858602'
 <p> </p>
 <p> </p>
 <p> </p>
-<p><br/><span>相關延伸閱讀：</span></p>
-<p><span>Toasteria：搭上主廚快餐車的Cubano</span><br/><span><a href="http://kuni.pixnet.net/blog/post/405970576" target="_blank">http://kuni.pixnet.net/blog/post/405970576</a></span></p>
-<p><span>Solo Pasta</span><br/><span><a href="http://kuni.pixnet.net/blog/post/295002482" target="_blank">http://kuni.pixnet.net/blog/post/295002482</a></span></p>
-<p><span>亞瑟漢堡：超級平價Brunch</span><br/><span><a href="http://kuni.pixnet.net/blog/post/395219234" target="_blank">http://kuni.pixnet.net/blog/post/395219234</a></span></p>
-<p><span>再一塊吧ing：永和brunch新開幕</span><br/><span><a href="http://kuni.pixnet.net/blog/post/396267743" target="_blank">http://kuni.pixnet.net/blog/post/396267743</a></span></p>
-<p><span>板橋知名的好初早餐</span><br/><span><a href="http://kuni.pixnet.net/blog/post/358433576" target="_blank">http://kuni.pixnet.net/blog/post/358433576</a></span></p>
-<p> </p>
 <p><span>by GRD3 and KUNI</span></p>
 <p> </p>
 <p><span>.</span></p>

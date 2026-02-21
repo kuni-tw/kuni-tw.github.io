@@ -69,9 +69,6 @@ post_id: '9439089697'
 <p><span><strong>或許在劇情上的論述過度薄弱了，但勇於介入這衝突多年的話題的確該讚許一下。</strong></span></p>
 <p><span> </span></p>
 <p> </p>
-<p><span>相關延伸閱讀：</span></p>
-<p><span>好不好吃？</span><br/><span><a href="http://kuni.pixnet.net/blog/post/438359062" target="_blank">http://kuni.pixnet.net/blog/post/438359062</a></span><br/><span>【Kuni專欄】江戶前壽司-迷人、極致又嚴遵傳統的東洋料理</span><br/><span><a href="http://goo.gl/UxuRmB" target="_blank">http://goo.gl/UxuRmB</a></span></p>
-<p> </p>
 <p><span>by KUNI</span></p>
 <p> </p>
 <p><span>.</span></p></div>

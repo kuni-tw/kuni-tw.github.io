@@ -195,11 +195,5 @@ post_id: '9576951836'
 <p><span>(小卡)</span></p>
 <p><span><img alt="圖片 53" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9576951836/1721496067-1448330223-g.jpg"/></span></p>
 <p><span><span><strong>我的FB粉絲團：</strong></span><br/><span><strong><a href="https://www.facebook.com/KUNIwithGourmet" target="_blank"><span>https://www.facebook.com/KUNIwithGourmet</span></a></strong></span></span></p>
-<p><span>相關延伸閱讀：</span></p>
-<p><span><strong><span><a href="https://kuni.pixnet.net/blog/post/576740420" target="_blank"><span>Raan Jay Fai痣姐：亞洲餐廳第38名的泰國小吃</span></a></span></strong></span></p>
-<p><span><strong><span><a href="https://kuni.pixnet.net/blog/post/575071204" target="_blank"><span>夏花餐室：依舊台北第一的印度菜</span></a></span></strong></span></p>
-<p><span><strong><span><a href="https://kuni.pixnet.net/blog/post/420469894" target="_blank"><span>想想廚房：夏花餐室的前身</span></a></span></strong></span></p>
-<p><span><strong><span><a href="https://kuni.pixnet.net/blog/post/314596187" target="_blank"><span>香料館：平價的印度菜</span></a></span></strong></span></p>
-<p> </p>
 <p><span>by Samsung S21+ and KUNI</span></p>
 <p><span>.</span></p></div>

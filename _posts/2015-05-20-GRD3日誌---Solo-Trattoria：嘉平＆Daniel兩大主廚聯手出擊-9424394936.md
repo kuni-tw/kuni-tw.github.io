@@ -162,13 +162,6 @@ post_id: '9424394936'
 <p><span>走出門外天氣與心情皆恰到妙處，</span></p>
 <p><span>太開心啦！</span></p>
 <p> </p>
-<p><span>相關延伸閱讀：</span></p>
-<p><span>Solo Trattoria：Cubanos Party</span><br/><span><a href="http://kuni.pixnet.net/blog/post/407858602-grd3%E6%97%A5%E8%AA%8C---19012015-solo-trattoria%EF%BC%9Acubanos-party" target="_blank">http://kuni.pixnet.net/blog/post/407858602</a></span></p>
-<p><span>Solo Pasta</span><br/><span><a href="http://kuni.pixnet.net/blog/post/295002482-grd%E6%97%A5%E8%AA%8C---29122011-solo-pasta%EF%BC%9A%E5%8F%B0%E5%8C%97%E7%B2%BE%E7%B7%BB%E7%BE%A9%E5%BC%8F%E6%96%99%E7%90%86" target="_blank">http://kuni.pixnet.net/blog/post/295002482</a></span></p>
-<p><span>鼎恩創意料理 DN INNOVACION：坎塔布里亞酒莊餐酒</span><br/><span><a href="http://kuni.pixnet.net/blog/post/329859272-grd3%E6%97%A5%E8%AA%8C---26102013-%E9%BC%8E%E6%81%A9%E5%89%B5%E6%84%8F%E6%96%99%E7%90%86-dn-innovacion%EF%BC%9A%E5%9D%8E" target="_blank">http://kuni.pixnet.net/blog/post/329859272</a></span></p>
-<p><span>DN innovacion的下午茶：兼具創意與質感的享受</span><br/><span><a href="http://kuni.pixnet.net/blog/post/295002602-grd%E6%97%A5%E8%AA%8C---26032012-dn-innovacion%E7%9A%84%E4%B8%8B%E5%8D%88%E8%8C%B6%EF%BC%9A%E5%85%BC%E5%85%B7%E5%89%B5" target="_blank">http://kuni.pixnet.net/blog/post/295002602</a></span></p>
-<p><span> </span></p>
-<p> </p>
 <p><span>by GRD3 and KUNI</span></p>
 <p> </p>
 <p><span>.</span></p></div>

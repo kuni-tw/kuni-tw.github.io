@@ -218,7 +218,5 @@ post_id: '9455138351'
 <p><span><strong>味覺上不若奔放，但樸實與和緩的義式在地風情，</strong></span></p>
 <p><span><strong>這對我來說絕對更有魅力。</strong></span></p>
 <p> </p>
-<p><br/><span>Igor相關延伸閱讀：</span></p>
-<p><span>La Festa2013年</span><br/><span><a href="http://kuni.pixnet.net/blog/post/295004957-grd3%E6%97%A5%E8%AA%8C---09052013-la-festa" target="_blank">http://kuni.pixnet.net/blog/post/295004957</a></span><br/><span>La Festa三周年慶</span><br/><span><a href="http://kuni.pixnet.net/blog/post/386557901-grd3%E6%97%A5%E8%AA%8C---16082014-%E7%B6%AD%E5%A4%9A%E9%BA%97%E4%BA%9E-la-festa%E4%B8%89%E5%91%A8%E5%B9%B4%E6%85%B6" target="_blank">http://kuni.pixnet.net/blog/post/386557901</a></span><br/><span>La Festa的阿爾巴白松露饗宴</span><br/><span><a href="http://kuni.pixnet.net/blog/post/295001984-grd%E6%97%A5%E8%AA%8C---22102011-la-festa%E7%9A%84%E9%98%BF%E7%88%BE%E5%B7%B4%E7%99%BD%E6%9D%BE%E9%9C%B2%E9%A5%97%E5%AE%B4" target="_blank">http://kuni.pixnet.net/blog/post/295001984</a></span><br/><span>La Festa周年慶：美食與小提琴之夜</span><br/><span><a href="http://kuni.pixnet.net/blog/post/295006568-thegr%E6%97%A5%E8%AA%8C---la-festa%E5%91%A8%E5%B9%B4%E6%85%B6%EF%BC%9A%E7%BE%8E%E9%A3%9F%E8%88%87%E5%B0%8F%E6%8F%90%E7%90%B4%E4%B9%8B%E5%A4%9C" target="_blank">http://kuni.pixnet.net/blog/post/295006568</a></span></p>
 <p><span>by GR2 and KUNI</span></p>
 <p><span>.</span></p></div>
