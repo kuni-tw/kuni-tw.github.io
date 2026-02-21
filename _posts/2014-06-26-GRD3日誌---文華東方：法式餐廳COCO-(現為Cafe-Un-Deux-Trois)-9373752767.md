@@ -9,7 +9,7 @@ original_url: https://kuni.pixnet.net/blog/posts/9373752767
 post_id: '9373752767'
 ---
 
-<div class="article-content-inner" id="article-content-inner"><p><span><img alt="圖片 1" src="/assets/images/9373752767/1403626649-4112194880.jpg"/>  </span></p>
+<div class="article-content-inner" id="article-content-inner"><p><span><img alt="圖片 1" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626649-4112194880.jpg"/>  </span></p>
 <p><span>(COCO的覆盆莓太陽塔)</span></p>
 <p> </p>
 <p><span>-----------------</span><br/><span>COCO 法式餐廳</span><br/><span>地址：台北市松山區敦化北路158號5樓</span><br/><span>電話：(02)2715-6688</span><br/><span>時間：12:00~14:30 14:30~17:00 18:00~22:00</span><br/><span>-----------------</span></p>
@@ -23,39 +23,39 @@ post_id: '9373752767'
 <p><span>都會優雅得令人想跳進去。</span></p>
 <p><span> </span></p>
 <p><span>(五樓的COCO門口)</span></p>
-<p><span><img alt="圖片 2" src="/assets/images/9373752767/1403626503-2768950896.jpg"/> </span></p>
+<p><span><img alt="圖片 2" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626503-2768950896.jpg"/> </span></p>
 <p> </p>
 <p><span>(糕點展示櫃)</span></p>
-<p><span><img alt="圖片 3" src="/assets/images/9373752767/1403626511-711277835.jpg"/> </span></p>
+<p><span><img alt="圖片 3" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626511-711277835.jpg"/> </span></p>
 <p> </p>
 <p><span>(沙發區)</span></p>
-<p><span><img alt="圖片 4" src="/assets/images/9373752767/1403626518-1773437436.jpg"/> </span></p>
+<p><span><img alt="圖片 4" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626518-1773437436.jpg"/> </span></p>
 <p> </p>
 <p><span>(書櫃展示區)</span></p>
-<p><span><img alt="圖片 5" src="/assets/images/9373752767/1403626524-500583727.jpg"/> </span></p>
+<p><span><img alt="圖片 5" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626524-500583727.jpg"/> </span></p>
 <p> </p>
 <p><span>(沙發書櫃區)</span></p>
-<p><span><img alt="圖片 6" src="/assets/images/9373752767/1403626529-1428956737.jpg"/>  </span></p>
+<p><span><img alt="圖片 6" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626529-1428956737.jpg"/>  </span></p>
 <p> </p>
 <p><span>今天吃的是午間4 Courses套餐(NT.1200)，</span></p>
 <p><span>除主廚小點外還有開胃菜(選新鮮香料沙拉)，</span></p>
 <p><span>主餐選香煎鮮魚及嫩時蔬佐奶油醬汁，甜點選太陽塔。</span></p>
 <p> </p>
 <p><span>(餐廳內的沙發區)</span></p>
-<p><span><img alt="圖片 7" src="/assets/images/9373752767/1403626539-536479451.jpg"/> </span></p>
+<p><span><img alt="圖片 7" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626539-536479451.jpg"/> </span></p>
 <p> </p>
 <p> </p>
 <p><span>(精緻的桌椅)</span></p>
-<p><span><img alt="圖片 8" src="/assets/images/9373752767/1403626547-3424710371.jpg"/> </span></p>
+<p><span><img alt="圖片 8" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626547-3424710371.jpg"/> </span></p>
 <p> </p>
 <p><span>(栩栩如生的犀牛裝置藝術)</span></p>
-<p><span><img alt="圖片 9" src="/assets/images/9373752767/1403626553-3979478493.jpg"/> </span></p>
+<p><span><img alt="圖片 9" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626553-3979478493.jpg"/> </span></p>
 <p> </p>
 <p><span>(包廂區)</span></p>
-<p><span><img alt="圖片 10" src="/assets/images/9373752767/1403626559-3870357579.jpg"/> </span></p>
+<p><span><img alt="圖片 10" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626559-3870357579.jpg"/> </span></p>
 <p> </p>
 <p><span>(桌上擺設)</span></p>
-<p><span><img alt="圖片 11" src="/assets/images/9373752767/1403626564-250089668.jpg"/>  </span></p>
+<p><span><img alt="圖片 11" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626564-250089668.jpg"/>  </span></p>
 <p> </p>
 <p><span>首先負責開場的麵包與沙拉無聊得讓人失望，</span></p>
 <p><span>由於還有吃到Risotto(番紅花蔬菜燉飯)，所以先講這個好了。</span></p>
@@ -67,19 +67,19 @@ post_id: '9373752767'
 <p><span>但這對我來說並不是好現象。</span></p>
 <p> </p>
 <p><span>(主廚小點)</span></p>
-<p><span><img alt="圖片 12" src="/assets/images/9373752767/1403626570-4028213583.jpg"/> </span></p>
+<p><span><img alt="圖片 12" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626570-4028213583.jpg"/> </span></p>
 <p> </p>
 <p><span>(麵包)</span></p>
-<p><span><img alt="圖片 13" src="/assets/images/9373752767/1403626577-2990840733.jpg"/> </span></p>
+<p><span><img alt="圖片 13" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626577-2990840733.jpg"/> </span></p>
 <p> </p>
 <p><span>(沙拉)</span></p>
-<p><span><img alt="圖片 14" src="/assets/images/9373752767/1403626584-552846774.jpg"/> </span></p>
+<p><span><img alt="圖片 14" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626584-552846774.jpg"/> </span></p>
 <p> </p>
 <p><span>(香料醃製鱒魚)</span></p>
-<p><span><img alt="圖片 15" src="/assets/images/9373752767/1403626591-2162699885.jpg"/> </span></p>
+<p><span><img alt="圖片 15" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626591-2162699885.jpg"/> </span></p>
 <p> </p>
 <p><span>(不太習慣冷吱吱的毛巾)</span></p>
-<p><span><img alt="圖片 16" src="/assets/images/9373752767/1403626597-39619670.jpg"/> </span></p>
+<p><span><img alt="圖片 16" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626597-39619670.jpg"/> </span></p>
 <p> </p>
 <p><span>品嘗美食常帶有所謂的既定印象，這讓人容易先入為主。</span></p>
 <p><span>米心口感或許在義大利當地滿常見的，</span></p>
@@ -100,10 +100,10 @@ post_id: '9373752767'
 <p><span>完全取決於主廚個人手藝及當日狀況。</span></p>
 <p> </p>
 <p><span>(COCO的番紅花義式燉飯)</span></p>
-<p><span><img alt="圖片 17" src="/assets/images/9373752767/1403626603-8774786.jpg"/> </span></p>
+<p><span><img alt="圖片 17" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626603-8774786.jpg"/> </span></p>
 <p> </p>
 <p><span>(大塊的甜菜根，蘿蔔與櫛瓜)</span></p>
-<p><span><img alt="圖片 18" src="/assets/images/9373752767/1403626609-3356245921.jpg"/>  </span></p>
+<p><span><img alt="圖片 18" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626609-3356245921.jpg"/>  </span></p>
 <p> </p>
 <p><span>回到另一道主餐香煎鮮魚，其實還滿好吃的，</span></p>
 <p><span>不過看到與燉飯一樣都使用到甜菜根與櫛瓜就有些讓人不滿了。</span></p>
@@ -111,10 +111,10 @@ post_id: '9373752767'
 <p><span>雖然已經很飽了，但還是二話不說馬上加點一份(NT.450)。</span></p>
 <p> </p>
 <p><span>(主廚香煎鮮魚) </span></p>
-<p><span><img alt="圖片 19" src="/assets/images/9373752767/1403626614-561281934.jpg"/> </span></p>
+<p><span><img alt="圖片 19" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626614-561281934.jpg"/> </span></p>
 <p> </p>
 <p><span>(配菜竟然又是蘿蔔與櫛瓜)</span></p>
-<p><span><img alt="圖片 20" src="/assets/images/9373752767/1403626620-675117753.jpg"/>  </span></p>
+<p><span><img alt="圖片 20" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626620-675117753.jpg"/>  </span></p>
 <p> </p>
 <p><span>真是令人感到相當意外，COCO竟然有這種等級的叻沙。</span></p>
 <p><span>由於前陣子才吃過新星味，馬上感受到極大的反差。</span></p>
@@ -122,7 +122,7 @@ post_id: '9373752767'
 <p><span>但在法式餐廳裡吃到這種高水準的南洋料理也太神奇啦。</span></p>
 <p> </p>
 <p><span>(COCO有非常好吃的新加坡Laksa唷！！！)</span></p>
-<p><span><img alt="圖片 21" src="/assets/images/9373752767/1403626633-2927281520.jpg"/>  </span></p>
+<p><span><img alt="圖片 21" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626633-2927281520.jpg"/>  </span></p>
 <p> </p>
 <p><span>此時不得不深深抱怨與插播一下今天COCO的服務，</span></p>
 <p><span>也聽說這裡有人手不足的問題，</span></p>
@@ -133,7 +133,7 @@ post_id: '9373752767'
 <p><span>這種事情在高級餐廳裡還真是第一次遇到。</span></p>
 <p> </p>
 <p><span>(太扯了，我面前的桌子一直沒收！)</span></p>
-<p><span><img alt="圖片 22" src="/assets/images/9373752767/1403626626-263380376.jpg"/>  </span></p>
+<p><span><img alt="圖片 22" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626626-263380376.jpg"/>  </span></p>
 <p> </p>
 <p><span>好吧不說下去了，因為後面的甜點其實還不錯。</span></p>
 <p><span>太陽塔上頭的覆盆莓美麗極了，品質很優，</span></p>
@@ -145,13 +145,13 @@ post_id: '9373752767'
 <p><span>不過COCO行到此總算是告一段落呀。(長嘆)</span></p>
 <p> </p>
 <p><span>(ILLY咖啡)</span></p>
-<p><span><img alt="圖片 23" src="/assets/images/9373752767/1403626638-3430529451.jpg"/> </span></p>
+<p><span><img alt="圖片 23" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626638-3430529451.jpg"/> </span></p>
 <p> </p>
 <p><span>(西洋梨塔)</span></p>
-<p><span><img alt="圖片 24" src="/assets/images/9373752767/1403626644-80201307.jpg"/> </span></p>
+<p><span><img alt="圖片 24" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626644-80201307.jpg"/> </span></p>
 <p> </p>
 <p><span>(覆盆莓太陽塔)</span></p>
-<p><span><img alt="圖片 25" src="/assets/images/9373752767/1403626649-4112194880.jpg"/>  </span></p>
+<p><span><img alt="圖片 25" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9373752767/1403626649-4112194880.jpg"/>  </span></p>
 <p> </p>
 <p><span><strong>我的FB粉絲團：</strong></span><br/><span><strong><a href="https://www.facebook.com/KUNIwithGourmet" target="_blank">https://www.facebook.com/KUNIwithGourmet</a></strong></span></p>
 <p> </p>

@@ -9,7 +9,7 @@ original_url: https://kuni.pixnet.net/blog/posts/9439089697
 post_id: '9439089697'
 ---
 
-<div class="article-content-inner" id="article-content-inner"><p><span><img alt="圖片 1" src="/assets/images/9439089697/1446302491-2134365581.jpg"/></span></p>
+<div class="article-content-inner" id="article-content-inner"><p><span><img alt="圖片 1" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9439089697/1446302491-2134365581.jpg"/></span></p>
 <p><span>(Bradley Cooper在"Burnt"裡的帥模樣)</span></p>
 <p> </p>
 <p> </p>
@@ -38,13 +38,13 @@ post_id: '9439089697'
 <p><span>似乎是剪接部分的瑕疵，但仍無傷大雅。</span></p>
 <p> </p>
 <p><span>(小野二郎的壽司之神)</span></p>
-<p><span><img alt="圖片 2" src="/assets/images/9439089697/1446385086-2560282787.jpg"/></span></p>
+<p><span><img alt="圖片 2" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9439089697/1446385086-2560282787.jpg"/></span></p>
 <p> </p>
 <p><span>(El Bulli的美味絕饗)</span></p>
-<p><span><img alt="圖片 3" src="/assets/images/9439089697/1446385084-335778514.jpg"/></span></p>
+<p><span><img alt="圖片 3" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9439089697/1446385084-335778514.jpg"/></span></p>
 <p> </p>
 <p><span>(Noma的冠軍廚房)</span></p>
-<p><span><img alt="圖片 4" src="/assets/images/9439089697/1446385085-2611381141.jpg"/></span></p>
+<p><span><img alt="圖片 4" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9439089697/1446385085-2611381141.jpg"/></span></p>
 <p> </p>
 <p><br/><span>從起初藉著追尋美味近乎偏執的Adam Jones帶領觀眾一下子進入米其林的另一面，</span></p>
 <p><span>不為人所知的殘酷與現實，與美食所應帶來的幸福似乎八竿子打不著。</span></p>

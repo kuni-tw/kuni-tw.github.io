@@ -9,7 +9,7 @@ original_url: https://kuni.pixnet.net/blog/posts/9572078844
 post_id: '9572078844'
 ---
 
-<div class="article-content-inner" id="article-content-inner"><p><span><img alt="圖片 1" src="/assets/images/9572078844/1686122896-1030076885-g.jpg"/></span></p>
+<div class="article-content-inner" id="article-content-inner"><p><span><img alt="圖片 1" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9572078844/1686122896-1030076885-g.jpg"/></span></p>
 <p><span>(Perbacco的義大利麵)</span></p>
 <p><span>--------</span><br/><span>Perbacco Osteria</span><br/><span>地址：新北市中和區中安街20號</span><br/><span>電話：(02)2926-5012</span><br/><span>時間：18:00~22:30 Wed~Fri</span><br/><span>12:00~14:30 18:00~22:30 Sat~Sun</span><br/><span>--------</span></p>
 <p><br/><span><strong>難得一見非常硬派的義式餐廳。</strong></span></p>
@@ -17,24 +17,24 @@ post_id: '9572078844'
 <p><span>純某次慢跑經過看到陌生的店面，</span></p>
 <p><span><strong>好奇之下訂了位，完食後直接收錄至愛店名單。</strong></span></p>
 <p><span>(門口)</span></p>
-<p><span><img alt="圖片 2" src="/assets/images/9572078844/1686122881-1015117156-g.jpg"/> </span></p>
+<p><span><img alt="圖片 2" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9572078844/1686122881-1015117156-g.jpg"/> </span></p>
 <p><span>(二樓)</span></p>
-<p><span><img alt="圖片 3" src="/assets/images/9572078844/1686122880-852016551-g.jpg"/> </span></p>
+<p><span><img alt="圖片 3" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9572078844/1686122880-852016551-g.jpg"/> </span></p>
 <p><span>(另一個方向)</span></p>
-<p><span><img alt="圖片 4" src="/assets/images/9572078844/1686122880-3419473099-g.jpg"/> </span></p>
+<p><span><img alt="圖片 4" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9572078844/1686122880-3419473099-g.jpg"/> </span></p>
 <p><span>(本日菜單)</span></p>
-<p><span><img alt="圖片 5" src="/assets/images/9572078844/1686122879-4019254216-g.jpg"/></span></p>
+<p><span><img alt="圖片 5" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9572078844/1686122879-4019254216-g.jpg"/></span></p>
 <p><span>用餐內容：</span><br/><span>--------</span><br/><span>白蘆筍太陽蛋佐油漬黑松露(NT.490)</span><br/><span>豬頰培根蛋黃圓管麵(NT.590)</span><br/><span>紅蝦塔塔干貝鮮蟹義大利麵(NT.590)</span><br/><span>義式香料舒肥台灣豬腹肉(NT.780)</span><br/><span>--------</span></p>
 <p><span>佐餐麵包是外面叫來的，口感普通，且只能續一次。</span></p>
 <p><span>白蘆筍來自義大利產區，尺寸中等。</span></p>
 <p><span>黑松露油漬過，沒什麼香氣，整體味道平淡。</span></p>
 <p><span><strong>由於整間店只有義籍老闆夫婦兩人，上餐速度較為不穩。</strong></span></p>
 <p><span>(麵包稍普通)</span></p>
-<p><span><img alt="圖片 6" src="/assets/images/9572078844/1686122879-3965536071-g.jpg"/> </span></p>
+<p><span><img alt="圖片 6" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9572078844/1686122879-3965536071-g.jpg"/> </span></p>
 <p><span>(白蘆筍太陽蛋佐油漬黑松露)</span></p>
-<p><span><img alt="圖片 7" src="/assets/images/9572078844/1686122881-3899336342-g.jpg"/> </span></p>
+<p><span><img alt="圖片 7" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9572078844/1686122881-3899336342-g.jpg"/> </span></p>
 <p><span>(戳破蛋黃)</span></p>
-<p><span><img alt="圖片 8" src="/assets/images/9572078844/1686122891-1241130150-g.jpg"/></span></p>
+<p><span><img alt="圖片 8" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9572078844/1686122891-1241130150-g.jpg"/></span></p>
 <p><span>豬頰培根蛋黃圓管麵其實就是鼎鼎大名的Carbonara。</span></p>
 <p><span><strong>入口吃驚：好久沒有吃到這麼硬派又美味的了！</strong></span></p>
 <p><span>台北至今道地的Carbonara沒吃過幾次，</span></p>
@@ -51,9 +51,9 @@ post_id: '9572078844'
 <p><span>"咦，那家該不會在永和。"</span></p>
 <p><span>"永和那家我們知道，不過我們訂的那家在屏東。"</span></p>
 <p><span>(豬頰培根蛋黃圓管麵)</span></p>
-<p><span><img alt="圖片 9" src="/assets/images/9572078844/1686122895-3160721986-g.jpg"/> </span></p>
+<p><span><img alt="圖片 9" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9572078844/1686122895-3160721986-g.jpg"/> </span></p>
 <p><span>(風味好濃郁)</span></p>
-<p><span><img alt="圖片 10" src="/assets/images/9572078844/1686122896-3111545550-g.jpg"/></span></p>
+<p><span><img alt="圖片 10" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9572078844/1686122896-3111545550-g.jpg"/></span></p>
 <p><span><strong>第二盤義大利麵更精采。</strong></span></p>
 <p><span>橢圓長盤前頭是一整塊萬里三點蟹殼，</span></p>
 <p><span>中間是份量極大的麵體，另一端則擺上蟹腳。</span></p>
@@ -62,16 +62,16 @@ post_id: '9572078844'
 <p><span><strong>但真正令人著迷的是這醬汁，</strong></span></p>
 <p><span><strong>融進甲殼與蟹膏精華，充滿複雜又難以辨識的嗆辣層次。</strong></span></p>
 <p><span>(紅蝦塔塔干貝鮮蟹義大利麵)</span></p>
-<p><span><img alt="圖片 11" src="/assets/images/9572078844/1686122896-1030076885-g.jpg"/> </span></p>
+<p><span><img alt="圖片 11" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9572078844/1686122896-1030076885-g.jpg"/> </span></p>
 <p><span>(超愛這道)</span></p>
-<p><span><img alt="圖片 12" src="/assets/images/9572078844/1686122896-815747920-g.jpg"/></span></p>
+<p><span><img alt="圖片 12" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9572078844/1686122896-815747920-g.jpg"/></span></p>
 <p><span>豬五花一口氣來了兩大塊，一旁典型的義式烤蔬菜。</span></p>
 <p><span>豬肉外皮看似香煎過，熟度極佳，</span></p>
 <p><span><strong>整體肉質超軟嫩與juicy，Lieggi主廚的實力再度獲得了認證。</strong></span></p>
 <p><span>(義式香料舒肥台灣豬腹肉)</span></p>
-<p><span><img alt="圖片 13" src="/assets/images/9572078844/1686122896-3257444843-g.jpg"/> </span></p>
+<p><span><img alt="圖片 13" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9572078844/1686122896-3257444843-g.jpg"/> </span></p>
 <p><span>(份量超大)</span></p>
-<p><span><img alt="圖片 14" src="/assets/images/9572078844/1686122902-3757778764-g.jpg"/></span></p>
+<p><span><img alt="圖片 14" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9572078844/1686122902-3757778764-g.jpg"/></span></p>
 <p> </p>
 <p><span>後記：</span></p>
 <p><span><strong>自<a href="https://kuni.pixnet.net/blog/post/566038042-kuni%E6%97%A5%E8%AA%8C---les-tables-par-r%C3%A9el%EF%BC%9A%E6%BC%82%E4%BA%AE%E7%9A%84%E9%A6%96%E8%BC%AA%E5%85%A9%E8%A8%AA%EF%BC%81">Reel</a>因房租狂漲搬離永安市場站後，</strong></span></p>

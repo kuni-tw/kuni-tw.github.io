@@ -9,7 +9,7 @@ original_url: https://kuni.pixnet.net/blog/posts/9412566544
 post_id: '9412566544'
 ---
 
-<div class="article-content-inner" id="article-content-inner"><p><span><em><img alt="圖片 1" src="/assets/images/9412566544/1425398399-346074913.jpg"/></em><span>  </span></span></p>
+<div class="article-content-inner" id="article-content-inner"><p><span><em><img alt="圖片 1" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9412566544/1425398399-346074913.jpg"/></em><span>  </span></span></p>
 <p><span>(這是來自Lovely Cake的林奐師傅拉的作品)</span></p>
 <p><span> </span></p>
 <p><span> </span></p>
@@ -28,14 +28,14 @@ post_id: '9412566544'
 <p><span>引到台灣來售價不知道會變多少。</span></p>
 <p><span> </span></p>
 <p><span>(潔白的落地玻璃窗店面)</span></p>
-<p><span><img alt="圖片 2" src="/assets/images/9412566544/1425398380-1760495682.jpg"/></span></p>
+<p><span><img alt="圖片 2" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9412566544/1425398380-1760495682.jpg"/></span></p>
 <p><span> </span></p>
 <p><span> </span></p>
 <p><span>(醒目的三孔Spirit Triplette)</span></p>
-<p><span><img alt="圖片 3" src="/assets/images/9412566544/1425398384-1914510848.jpg"/></span></p>
+<p><span><img alt="圖片 3" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9412566544/1425398384-1914510848.jpg"/></span></p>
 <p><span> </span></p>
 <p><span>(店內桌椅裝潢簡潔有力)</span></p>
-<p><span><img alt="圖片 4" src="/assets/images/9412566544/1425398390-3676457400.jpg"/>  </span></p>
+<p><span><img alt="圖片 4" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9412566544/1425398390-3676457400.jpg"/>  </span></p>
 <p><span> </span></p>
 <p><span>由2014年TNTTW台灣區拉花前三名好手擔綱內場，</span></p>
 <p><span>Milkglider實力雄厚無庸置疑。</span></p>
@@ -44,7 +44,7 @@ post_id: '9412566544'
 <p><span><strong>加20元就變成大杯(Espresso+12oz.Milk)</strong></span></p>
 <p><span> </span></p>
 <p><span>(好美的機器阿)</span></p>
-<p><span><img alt="圖片 5" src="/assets/images/9412566544/1425398394-3987080047.jpg"/>  </span></p>
+<p><span><img alt="圖片 5" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9412566544/1425398394-3987080047.jpg"/>  </span></p>
 <p><span> </span></p>
 <p><span>今天除一般拿鐵外另試了草莓口味，</span></p>
 <p><span>趁Chris走至吧檯前不假思索跟去錄影，</span></p>
@@ -83,10 +83,10 @@ post_id: '9412566544'
 <p><span>有空定要找機會再來這裡試試糕點。</span></p>
 <p><span> </span></p>
 <p><span>(Chris的作品)</span></p>
-<p><span><img alt="圖片 6" src="/assets/images/9412566544/1425398397-2972349341.jpg"/> </span></p>
+<p><span><img alt="圖片 6" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9412566544/1425398397-2972349341.jpg"/> </span></p>
 <p> </p>
 <p><span>(林奐的作品)</span></p>
-<p><span><img alt="圖片 7" src="/assets/images/9412566544/1425398399-346074913.jpg"/>  </span></p>
+<p><span><img alt="圖片 7" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9412566544/1425398399-346074913.jpg"/>  </span></p>
 <p><span> </span></p>
 <p> </p>
 <p><span>相關延伸閱讀：</span></p>

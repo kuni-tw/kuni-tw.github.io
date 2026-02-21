@@ -9,7 +9,7 @@ original_url: https://kuni.pixnet.net/blog/posts/9424394936
 post_id: '9424394936'
 ---
 
-<div class="article-content-inner" id="article-content-inner"><p><span><img alt="圖片 1" src="/assets/images/9424394936/1432011756-1814907209.jpg"/></span></p>
+<div class="article-content-inner" id="article-content-inner"><p><span><img alt="圖片 1" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011756-1814907209.jpg"/></span></p>
 <p><span>(今晚的牛小排相當優質！)</span></p>
 <p> </p>
 <p><span><strong>Daniel新餐廳：隱丹廚</strong></span><br/><span><strong><a href="http://kuni.pixnet.net/blog/post/460130255-gr2%E6%97%A5%E8%AA%8C---%E9%9A%B1%E4%B8%B9%E5%BB%9A2017%E5%B9%B4%E9%A6%96%E8%A8%AA%EF%BC%9Adaniel%E5%9B%9E%E4%BE%86%E4%BA%86%EF%BC%81" target="_blank">http://kuni.pixnet.net/blog/post/460130255</a></strong></span></p>
@@ -30,13 +30,13 @@ post_id: '9424394936'
 <p><span>總有一天還是要回來。</span></p>
 <p><span> </span></p>
 <p><span>(Solo Trattoria門口)</span></p>
-<p><span><img alt="圖片 2" src="/assets/images/9424394936/1432011674-3911769647.jpg"/> </span></p>
+<p><span><img alt="圖片 2" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011674-3911769647.jpg"/> </span></p>
 <p> </p>
 <p><span>(桌位)</span></p>
-<p><span><img alt="圖片 3" src="/assets/images/9424394936/1432011680-2155339903.jpg"/> </span></p>
+<p><span><img alt="圖片 3" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011680-2155339903.jpg"/> </span></p>
 <p> </p>
 <p><span>(一看就知道是Daniel風格的印製菜單)</span></p>
-<p><span><img alt="圖片 4" src="/assets/images/9424394936/1432011686-4224036968.jpg"/>  </span></p>
+<p><span><img alt="圖片 4" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011686-4224036968.jpg"/>  </span></p>
 <p> </p>
 <p> </p>
 <p><span><strong>J-Ping &amp; Daniel Wine Dinner</strong></span></p>
@@ -55,13 +55,13 @@ post_id: '9424394936'
 <p><span>微酸中見到驚喜。</span></p>
 <p> </p>
 <p><span>(餐前麵包與脆餅)</span></p>
-<p><span><img alt="圖片 5" src="/assets/images/9424394936/1432011695-1468798351.jpg"/> </span></p>
+<p><span><img alt="圖片 5" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011695-1468798351.jpg"/> </span></p>
 <p> </p>
 <p><span>(好久不見啦，Daniel)</span></p>
-<p><span><img alt="圖片 6" src="/assets/images/9424394936/1432011702-1175810002.jpg"/> </span></p>
+<p><span><img alt="圖片 6" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011702-1175810002.jpg"/> </span></p>
 <p> </p>
 <p><span>(生蠔，杏仁冷湯，血腥蘋果)</span></p>
-<p><span><img alt="圖片 7" src="/assets/images/9424394936/1432011706-3289306778.jpg"/>  </span></p>
+<p><span><img alt="圖片 7" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011706-3289306778.jpg"/>  </span></p>
 <p> </p>
 <p><br/><span>第二支Chardonnay來得有些遲，比氣泡酒潤甜。</span></p>
 <p><span>此時外場端來類似日式甜玉米的切片，</span></p>
@@ -71,10 +71,10 @@ post_id: '9424394936'
 <p><span>裡頭藏著來自東北角的海蝦。</span></p>
 <p><span> </span></p>
 <p><span>("火焰下"的玉米與鮮蝦)</span></p>
-<p><span><img alt="圖片 8" src="/assets/images/9424394936/1432011710-1400913764.jpg"/> </span></p>
+<p><span><img alt="圖片 8" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011710-1400913764.jpg"/> </span></p>
 <p> </p>
 <p><span>(玉米外型，吃到的卻是甲殼味)</span></p>
-<p><span><img alt="圖片 9" src="/assets/images/9424394936/1432011716-1643957615.jpg"/>  </span></p>
+<p><span><img alt="圖片 9" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011716-1643957615.jpg"/>  </span></p>
 <p> </p>
 <p><span>第三支起初有些類似Chardonnay，但不算明確，</span></p>
 <p><span>嚴格來說帶著莓果氣息。</span></p>
@@ -85,16 +85,16 @@ post_id: '9424394936'
 <p><span>今晚亦不例外。</span></p>
 <p><span> </span></p>
 <p><span>(迷迭香煙燻干貝，鹹味果仁糖，蘆筍綿密醬汁)</span></p>
-<p><span><img alt="圖片 10" src="/assets/images/9424394936/1432011720-1521072966.jpg"/> </span></p>
+<p><span><img alt="圖片 10" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011720-1521072966.jpg"/> </span></p>
 <p> </p>
 <p><span>(蓋子掀開後瞬間充斥著煙燻)</span></p>
-<p><span><img alt="圖片 11" src="/assets/images/9424394936/1432011724-787866502.jpg"/> </span></p>
+<p><span><img alt="圖片 11" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011724-787866502.jpg"/> </span></p>
 <p> </p>
 <p><span>(義大利手工麵餃，牛膝，主廚醬汁)</span></p>
-<p><span><img alt="圖片 12" src="/assets/images/9424394936/1432011729-3747467223.jpg"/> </span></p>
+<p><span><img alt="圖片 12" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011729-3747467223.jpg"/> </span></p>
 <p> </p>
 <p><span>(風乾麵包不錯，所以續了一盤)</span></p>
-<p><span><img alt="圖片 13" src="/assets/images/9424394936/1432011734-2525304943.jpg"/>  </span></p>
+<p><span><img alt="圖片 13" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011734-2525304943.jpg"/>  </span></p>
 <p> </p>
 <p> </p>
 <p><span>第四支是紅酒，酒單上寫明不建議使用醒酒器，</span></p>
@@ -107,16 +107,16 @@ post_id: '9424394936'
 <p><span>肌絲豐富而不乾澀，藉一旁的香料球玩著鼻後腔嗅覺遊戲。</span></p>
 <p><span> </span></p>
 <p><span>(這一支紅酒不錯)</span></p>
-<p><span><img alt="圖片 14" src="/assets/images/9424394936/1432011738-4086208217.jpg"/> </span></p>
+<p><span><img alt="圖片 14" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011738-4086208217.jpg"/> </span></p>
 <p> </p>
 <p><span>(低溫烹調牛小排，橡實黃番茄，"肉的口音變化")</span></p>
-<p><span><img alt="圖片 15" src="/assets/images/9424394936/1432011742-3530035652.jpg"/> </span></p>
+<p><span><img alt="圖片 15" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011742-3530035652.jpg"/> </span></p>
 <p> </p>
 <p><span>(那幾顆香料小球負責所謂的口音變化)</span></p>
-<p><span><img alt="圖片 16" src="/assets/images/9424394936/1432011747-255636299.jpg"/> </span></p>
+<p><span><img alt="圖片 16" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011747-255636299.jpg"/> </span></p>
 <p> </p>
 <p><span>(雖然是Choice，但有超乎水準的演出)</span></p>
-<p><span><img alt="圖片 17" src="/assets/images/9424394936/1432011756-1814907209.jpg"/>  </span></p>
+<p><span><img alt="圖片 17" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011756-1814907209.jpg"/>  </span></p>
 <p> </p>
 <p><span>嘉平主廚知道我從未吃過他的Risotto，</span></p>
 <p><span>所以臨時特地弄一份給我嘗嘗。</span></p>
@@ -127,10 +127,10 @@ post_id: '9424394936'
 <p><span>倒是挺意外的，以後有機會一定要來試試其他款。</span></p>
 <p><span> </span></p>
 <p><span>(跑去內場觀摩燉飯製作過程)</span></p>
-<p><span><img alt="圖片 18" src="/assets/images/9424394936/1432011761-823633063.jpg"/> </span></p>
+<p><span><img alt="圖片 18" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011761-823633063.jpg"/> </span></p>
 <p> </p>
 <p><span>(威尼斯義式燉飯)</span></p>
-<p><span><img alt="圖片 19" src="/assets/images/9424394936/1432011769-1706353387.jpg"/>  </span></p>
+<p><span><img alt="圖片 19" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011769-1706353387.jpg"/>  </span></p>
 <p> </p>
 <p> </p>
 <p><span>最後一支甜白有荔枝與蜂蜜的優雅甜香，</span></p>
@@ -142,16 +142,16 @@ post_id: '9424394936'
 <p><span>散出微微肉桂卻不突兀，相當厲害。</span></p>
 <p><span> </span></p>
 <p><span>("2015 Krispy Kreme甜甜圈")</span></p>
-<p><span><img alt="圖片 20" src="/assets/images/9424394936/1432011774-2748635187.jpg"/> </span></p>
+<p><span><img alt="圖片 20" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011774-2748635187.jpg"/> </span></p>
 <p> </p>
 <p><span>(巧克力外皮裡滿溢出焦糖膏餡)</span></p>
-<p><span><img alt="圖片 21" src="/assets/images/9424394936/1432011780-3992717236.jpg"/> </span></p>
+<p><span><img alt="圖片 21" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011780-3992717236.jpg"/> </span></p>
 <p> </p>
 <p><span>(許個願望吧！"蠟燭")</span></p>
-<p><span><img alt="圖片 22" src="/assets/images/9424394936/1432011787-931234790.jpg"/> </span></p>
+<p><span><img alt="圖片 22" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011787-931234790.jpg"/> </span></p>
 <p> </p>
 <p><span>(餐後一定要來一杯咖啡的阿)</span></p>
-<p><span><img alt="圖片 23" src="/assets/images/9424394936/1432011793-489235811.jpg"/>  </span></p>
+<p><span><img alt="圖片 23" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9424394936/1432011793-489235811.jpg"/>  </span></p>
 <p> </p>
 <p> </p>
 <p><span>今晚這一場Gala Dinner大體說來還算成功，</span></p>

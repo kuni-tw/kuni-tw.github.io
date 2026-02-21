@@ -23,7 +23,7 @@ post_id: '9569311664'
 <p><span>許多在個人心中不及TB的都得過了，怎麼就他們沒有。</span></p>
 <p><span>這讓我決定在TB訂今年的生日餐，順便解惑。</span></p>
 <p><span>(Tutto Bello)</span></p>
-<p><span><img alt="圖片 1" src="/assets/images/9569311664/1676804304-707384741-g.jpg"/></span></p>
+<p><span><img alt="圖片 1" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804304-707384741-g.jpg"/></span></p>
 <p><span>用餐內容：</span><br/><span>----------</span><br/><span>Tasting Menu(NT.7800)</span><br/><span>Balik燻鮭魚/鱒魚卵/嫩芽沙拉/番茄吐司</span><br/><span>蒸龍蝦/迷迭香油/紅花鮮貝高湯</span><br/><span>奶油松露醬/手製寬麵</span><br/><span>熊本半和牛菲力/牛尾肉汁/焗烤洋芋</span><br/><span>溫烤卡司達可麗餅佐開心果冰淇淋</span></p>
 <p><span>單點：</span><br/><span>檸檬辣椒烘菌菇/黑松露炒蛋/沙拉佐芝麻油醋(NT.950)</span><br/><span>托斯卡尼洋蔥湯(NT.420)</span><br/><span>燉和牛尾/紅酒汁/米型麵/松露醬(NT.1950)</span><br/><span>----------</span></p>
 <p><span>松露奶油依舊誘人，非常香，鮪魚奶油也是佳作。</span></p>
@@ -33,11 +33,11 @@ post_id: '9569311664'
 <p><span><strong>訝異的是，才剛吃了松露麵包，卻沒有那種重複到的反感。</strong></span></p>
 <p><span>兩種香氣路數不同，滋味也不同。</span></p>
 <p><span>(佐餐麵包)</span></p>
-<p><span><img alt="圖片 2" src="/assets/images/9569311664/1676804305-59515804-g.jpg"/> </span></p>
+<p><span><img alt="圖片 2" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804305-59515804-g.jpg"/> </span></p>
 <p><span>(黑松露炒蛋沙拉)</span></p>
-<p><span><img alt="圖片 3" src="/assets/images/9569311664/1676804305-2993409545-g.jpg"/> </span></p>
+<p><span><img alt="圖片 3" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804305-2993409545-g.jpg"/> </span></p>
 <p><span>(內層)</span></p>
-<p><span><img alt="圖片 4" src="/assets/images/9569311664/1676804305-1681869779-g.jpg"/></span></p>
+<p><span><img alt="圖片 4" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804305-1681869779-g.jpg"/></span></p>
 <p><span>來自瑞士的Balik燻鮭超級昂貴，</span></p>
 <p><span>似乎是Steve主廚愛用的食材，幾乎每一次的菜單都有看到。</span></p>
 <p><span>肉質極盡綿密，搭配溫潤酸度的醬汁。</span></p>
@@ -46,54 +46,54 @@ post_id: '9569311664'
 <p><span>龍蝦熟度毫無懸念，細嫩，</span></p>
 <p><span>一旁附的清湯充滿類似甲殼的鮮美讓人升天，原來是番紅花。</span></p>
 <p><span>(Balik燻鮭)</span></p>
-<p><span><img alt="圖片 5" src="/assets/images/9569311664/1676804305-1910344975-g.jpg"/> </span></p>
+<p><span><img alt="圖片 5" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804305-1910344975-g.jpg"/> </span></p>
 <p><span>(番茄麵包)</span></p>
-<p><span><img alt="圖片 6" src="/assets/images/9569311664/1676804307-2770452315-g.jpg"/> </span></p>
+<p><span><img alt="圖片 6" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804307-2770452315-g.jpg"/> </span></p>
 <p><span>(套餐沙拉)</span></p>
-<p><span><img alt="圖片 7" src="/assets/images/9569311664/1676804322-3433599610-g.jpg"/> </span></p>
+<p><span><img alt="圖片 7" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804322-3433599610-g.jpg"/> </span></p>
 <p><span>(店經理Ken)</span></p>
-<p><span><img alt="圖片 8" src="/assets/images/9569311664/1676804332-1882888226-g.jpg"/> </span></p>
+<p><span><img alt="圖片 8" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804332-1882888226-g.jpg"/> </span></p>
 <p><span>(這隻真是物超所值阿)</span></p>
-<p><span><img alt="圖片 9" src="/assets/images/9569311664/1676804366-1090116554-g.jpg"/> </span></p>
+<p><span><img alt="圖片 9" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804366-1090116554-g.jpg"/> </span></p>
 <p><span>(最棒的洋蔥湯出現了)</span></p>
-<p><span><img alt="圖片 10" src="/assets/images/9569311664/1676804375-4112939368-g.jpg"/> </span></p>
+<p><span><img alt="圖片 10" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804375-4112939368-g.jpg"/> </span></p>
 <p><span>(濃郁)</span></p>
-<p><span><img alt="圖片 11" src="/assets/images/9569311664/1676804375-921798644-g.jpg"/> </span></p>
+<p><span><img alt="圖片 11" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804375-921798644-g.jpg"/> </span></p>
 <p><span>(龍蝦)</span></p>
-<p><span><img alt="圖片 12" src="/assets/images/9569311664/1676804380-1168415880-g.jpg"/> </span></p>
+<p><span><img alt="圖片 12" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804380-1168415880-g.jpg"/> </span></p>
 <p><span>(附湯)</span></p>
-<p><span><img alt="圖片 13" src="/assets/images/9569311664/1676804382-2219026842-g.jpg"/> </span></p>
+<p><span><img alt="圖片 13" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804382-2219026842-g.jpg"/> </span></p>
 <p><span>(熟度一流)</span></p>
-<p><span><img alt="圖片 14" src="/assets/images/9569311664/1676804385-727070176-g.jpg"/></span></p>
+<p><span><img alt="圖片 14" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804385-727070176-g.jpg"/></span></p>
 <p><span><strong>法國佩里哥黑松露吃了N年，最滿意應該就是這次了。</strong></span></p>
 <p><span>不然以往個人經驗，一定較偏好義大利的阿爾巴白松露。</span></p>
 <p><span>一個是優雅，一個是不講理的霸道。</span></p>
 <p><span>(奶油松露醬/手製寬麵)</span></p>
-<p><span><img alt="圖片 15" src="/assets/images/9569311664/1676804389-3283200954-g.jpg"/> </span></p>
+<p><span><img alt="圖片 15" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804389-3283200954-g.jpg"/> </span></p>
 <p><span>(松露一直是這家的強項)</span></p>
-<p><span><img alt="圖片 16" src="/assets/images/9569311664/1676804391-3664862007-g.jpg"/></span></p>
+<p><span><img alt="圖片 16" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804391-3664862007-g.jpg"/></span></p>
 <p><span>牛排是今天較不合味的，</span></p>
 <p><span>火侯不算突出，連一旁的馬鈴薯也單調。</span></p>
 <p><span><strong>單點的燉和牛牛尾讓你上天堂，</strong></span></p>
 <p><span>豐腴的膠質與濃厚的紅酒醬，搭配的米形麵也是無可挑剔。</span></p>
 <p><span>(熊本半和牛菲力/焗烤洋芋)</span></p>
-<p><span><img alt="圖片 17" src="/assets/images/9569311664/1676804394-2656426495-g.jpg"/> </span></p>
+<p><span><img alt="圖片 17" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804394-2656426495-g.jpg"/> </span></p>
 <p><span>(斟上牛尾肉汁)</span></p>
-<p><span><img alt="圖片 18" src="/assets/images/9569311664/1676804395-2342091395-g.jpg"/> </span></p>
+<p><span><img alt="圖片 18" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804395-2342091395-g.jpg"/> </span></p>
 <p><span>(燉和牛尾)</span></p>
-<p><span><img alt="圖片 19" src="/assets/images/9569311664/1676804395-3759662823-g.jpg"/> </span></p>
+<p><span><img alt="圖片 19" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804395-3759662823-g.jpg"/> </span></p>
 <p><span>(松露米型麵)</span></p>
-<p><span><img alt="圖片 20" src="/assets/images/9569311664/1676804399-4078349861-g.jpg"/> </span></p>
+<p><span><img alt="圖片 20" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804399-4078349861-g.jpg"/> </span></p>
 <p><span>(美味)</span></p>
-<p><span><img alt="圖片 21" src="/assets/images/9569311664/1676804404-1987940990-g.jpg"/> </span></p>
+<p><span><img alt="圖片 21" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804404-1987940990-g.jpg"/> </span></p>
 <p><span>(甜點)</span></p>
-<p><span><img alt="圖片 22" src="/assets/images/9569311664/1676804407-3946501297-g.jpg"/> </span></p>
+<p><span><img alt="圖片 22" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804407-3946501297-g.jpg"/> </span></p>
 <p><span>(餐廳贈送的生日巧克力球)</span></p>
-<p><span><img alt="圖片 23" src="/assets/images/9569311664/1676804421-3209629465-g.jpg"/> </span></p>
+<p><span><img alt="圖片 23" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804421-3209629465-g.jpg"/> </span></p>
 <p><strong><span>(<a href="https://kuni.pixnet.net/blog/post/295002521-grd%E6%97%A5%E8%AA%8C---tutto-bello%EF%BC%9A%E5%8F%B0%E5%8C%97%E9%A0%82%E7%B4%9A%E7%BE%A9%E5%BC%8F%E9%A4%90%E5%BB%B3%E7%9A%84%E7%A2%BA%E5%90%8D" target="_blank">與2012年使用的手法一模一樣</a>)</span></strong></p>
-<p><span><img alt="圖片 24" src="/assets/images/9569311664/1676804425-389283545-g.jpg"/> </span></p>
+<p><span><img alt="圖片 24" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804425-389283545-g.jpg"/> </span></p>
 <p><span>(飲料)</span></p>
-<p><span><img alt="圖片 25" src="/assets/images/9569311664/1676804437-67566710-g.jpg"/></span></p>
+<p><span><img alt="圖片 25" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9569311664/1676804437-67566710-g.jpg"/></span></p>
 <p> </p>
 <p><span>酒足飯飽後，在歡愉之際慢慢回神，</span></p>
 <p><span>整天吃下來滿意度是極高的，毫無疑問。</span></p>

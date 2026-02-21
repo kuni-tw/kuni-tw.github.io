@@ -9,7 +9,7 @@ original_url: https://kuni.pixnet.net/blog/posts/9426967250
 post_id: '9426967250'
 ---
 
-<div class="article-content-inner" id="article-content-inner"><p><span><img alt="圖片 1" src="/assets/images/9426967250/1435048177-2465439870.jpg"/></span></p>
+<div class="article-content-inner" id="article-content-inner"><p><span><img alt="圖片 1" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9426967250/1435048177-2465439870.jpg"/></span></p>
 <p><span>(L先生的爐烤鴨胸)</span></p>
 <p><span> </span></p>
 <p><span>----------------------------</span><br/><span>Monsieur L Restaurant L先生</span><br/><span>電話：(02)8770-5505</span><br/><span>地址：台北市松山區民生東路四段131巷21號</span><br/><span>時間：11:30~14:30 18:00~22:00</span><br/><span>----------------------------</span></p>
@@ -20,10 +20,10 @@ post_id: '9426967250'
 <p><span>進入寬大的131巷後一下子抵達。</span></p>
 <p><span> </span></p>
 <p><span>(門口)</span></p>
-<p><span><img alt="圖片 2" src="/assets/images/9426967250/1434914246-180828153.jpg"/>  </span></p>
+<p><span><img alt="圖片 2" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9426967250/1434914246-180828153.jpg"/>  </span></p>
 <p><span> </span></p>
 <p><span>(裡頭桌位)</span></p>
-<p><span><img alt="圖片 3" src="/assets/images/9426967250/1434914249-161473250.jpg"/>  </span></p>
+<p><span><img alt="圖片 3" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9426967250/1434914249-161473250.jpg"/>  </span></p>
 <p><span> </span></p>
 <p><span> </span></p>
 <p><span><strong>今天吃的是Gourmet Menu：</strong></span><br/><span>--------------------------------------------</span><br/><span>開胃小點</span></p>
@@ -49,16 +49,16 @@ post_id: '9426967250'
 <p><span><strong>實在不應該。</strong></span></p>
 <p><span> </span></p>
 <p><span>(礦泉水)</span></p>
-<p><span><img alt="圖片 4" src="/assets/images/9426967250/1435048102-2654740411.jpg"/></span></p>
+<p><span><img alt="圖片 4" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9426967250/1435048102-2654740411.jpg"/></span></p>
 <p><span> </span></p>
 <p><span>(水牛Mozzarella與風乾番茄)</span></p>
-<p><span><img alt="圖片 5" src="/assets/images/9426967250/1435048109-277237588.jpg"/></span></p>
+<p><span><img alt="圖片 5" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9426967250/1435048109-277237588.jpg"/></span></p>
 <p><span> </span></p>
 <p><span>(麵包)</span></p>
-<p><span><img alt="圖片 6" src="/assets/images/9426967250/1435048114-1023093517.jpg"/></span></p>
+<p><span><img alt="圖片 6" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9426967250/1435048114-1023093517.jpg"/></span></p>
 <p><span> </span></p>
 <p><span>(日本厚岸生蠔＋海藻果凍＋蘋果泡沫)</span></p>
-<p><span><img alt="圖片 7" src="/assets/images/9426967250/1435048118-1130172804.jpg"/>  </span></p>
+<p><span><img alt="圖片 7" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9426967250/1435048118-1130172804.jpg"/>  </span></p>
 <p><span> </span></p>
 <p><span>今天的大干貝煎得偏生。</span></p>
 <p><span>這東西熟度其實沒那麼好抓，藉微溫引出香氣。</span></p>
@@ -71,19 +71,19 @@ post_id: '9426967250'
 <p><span>可惜魚身偏乾缺了一點juicy。</span></p>
 <p><span> </span></p>
 <p><span>(嫩煎北海道干貝＋蔬果冷湯＋日本赤海膽)</span></p>
-<p><span><img alt="圖片 8" src="/assets/images/9426967250/1435048123-1719012879.jpg"/></span></p>
+<p><span><img alt="圖片 8" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9426967250/1435048123-1719012879.jpg"/></span></p>
 <p><span> </span></p>
 <p><span>(雞肉澄清湯＋低溫烹煮有機蛋＋蔬菜花菇丁)</span></p>
-<p><span><img alt="圖片 9" src="/assets/images/9426967250/1435048128-1522660345.jpg"/></span></p>
+<p><span><img alt="圖片 9" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9426967250/1435048128-1522660345.jpg"/></span></p>
 <p><span> </span></p>
 <p><span>(現場斟入湯汁)</span></p>
-<p><span><img alt="圖片 10" src="/assets/images/9426967250/1435048138-2802067206.jpg"/></span></p>
+<p><span><img alt="圖片 10" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9426967250/1435048138-2802067206.jpg"/></span></p>
 <p><span> </span></p>
 <p><span>(完成)</span></p>
-<p><span><img alt="圖片 11" src="/assets/images/9426967250/1435048144-3732734405.jpg"/></span></p>
+<p><span><img alt="圖片 11" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9426967250/1435048144-3732734405.jpg"/></span></p>
 <p><span> </span></p>
 <p><span>(脆鱗馬頭魚＋春季燉菜＋柚子奶油醬)</span></p>
-<p><span><img alt="圖片 12" src="/assets/images/9426967250/1435048150-669740269.jpg"/>  </span></p>
+<p><span><img alt="圖片 12" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9426967250/1435048150-669740269.jpg"/>  </span></p>
 <p><span> </span></p>
 <p><br/><span>嚐了朋友的鴨胸，典型宜蘭櫻桃鴨肉質。</span></p>
 <p><span>主廚功夫沒讓人失望，</span></p>
@@ -99,22 +99,22 @@ post_id: '9426967250'
 <p><span>實在美好啊。</span></p>
 <p><span> </span></p>
 <p><span>(牛排刀)</span></p>
-<p><span><img alt="圖片 13" src="/assets/images/9426967250/1435048161-2690277670.jpg"/> </span></p>
+<p><span><img alt="圖片 13" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9426967250/1435048161-2690277670.jpg"/> </span></p>
 <p> </p>
 <p><span>(澳洲穀飼300天牛排＋松露馬鈴薯泥＋清炒野菇)</span></p>
-<p><span><img alt="圖片 14" src="/assets/images/9426967250/1435048165-3121434903.jpg"/> </span></p>
+<p><span><img alt="圖片 14" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9426967250/1435048165-3121434903.jpg"/> </span></p>
 <p> </p>
 <p><span>(另一道主餐：爐烤鴨胸)</span></p>
-<p><span><img alt="圖片 15" src="/assets/images/9426967250/1435048177-2465439870.jpg"/> </span></p>
+<p><span><img alt="圖片 15" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9426967250/1435048177-2465439870.jpg"/> </span></p>
 <p> </p>
 <p><span>(清口用的冰沙)</span></p>
-<p><span><img alt="圖片 16" src="/assets/images/9426967250/1435048190-1918958218.jpg"/> </span></p>
+<p><span><img alt="圖片 16" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9426967250/1435048190-1918958218.jpg"/> </span></p>
 <p> </p>
 <p><span>(舒芙蕾)</span></p>
-<p><span><img alt="圖片 17" src="/assets/images/9426967250/1435048200-1402961890.jpg"/> </span></p>
+<p><span><img alt="圖片 17" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9426967250/1435048200-1402961890.jpg"/> </span></p>
 <p> </p>
 <p><span>(想念的Julius Meinl咖啡) </span></p>
-<p><span><img alt="圖片 18" src="/assets/images/9426967250/1435048213-2953027381.jpg"/>   </span></p>
+<p><span><img alt="圖片 18" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9426967250/1435048213-2953027381.jpg"/>   </span></p>
 <p><span> </span></p>
 <p> </p>
 <p><span>付完帳後走出店門口外，</span></p>

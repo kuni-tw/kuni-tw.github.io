@@ -9,7 +9,7 @@ original_url: https://kuni.pixnet.net/blog/posts/9448310960
 post_id: '9448310960'
 ---
 
-<div class="article-content-inner" id="article-content-inner"><p><span><img alt="圖片 1" src="/assets/images/9448310960/1464342262-4179869284.jpg"/></span></p>
+<div class="article-content-inner" id="article-content-inner"><p><span><img alt="圖片 1" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9448310960/1464342262-4179869284.jpg"/></span></p>
 <p><span>(Maxim Vengerov Recital in Taipei 2016)</span></p>
 <p> </p>
 <p><span>時間是2016年五月二十六晚間七點，</span></p>
@@ -79,7 +79,7 @@ post_id: '9448310960'
 <p><span>突然懷念以前年少輕狂的日子。</span></p>
 <p> </p>
 <p><span>(牛耳在演奏會結束後於網上公布凡格羅夫的安可曲目)</span></p>
-<p><span><img alt="圖片 2" src="/assets/images/9448310960/1464358168-1645770156.jpg"/></span></p>
+<p><span><img alt="圖片 2" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9448310960/1464358168-1645770156.jpg"/></span></p>
 <p> </p>
 <p> </p>
 <p> </p>

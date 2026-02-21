@@ -9,7 +9,7 @@ original_url: https://kuni.pixnet.net/blog/posts/9407858602
 post_id: '9407858602'
 ---
 
-<div class="article-content-inner" id="article-content-inner"><p><span><img alt="圖片 1" src="/assets/images/9407858602/1422385450-3960097798.jpg"/>  </span></p>
+<div class="article-content-inner" id="article-content-inner"><p><span><img alt="圖片 1" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9407858602/1422385450-3960097798.jpg"/>  </span></p>
 <p><span>(剛出爐的古巴三明治！)</span></p>
 <p> </p>
 <p> </p>
@@ -50,19 +50,19 @@ post_id: '9407858602'
 <p><span>看來今天會有不少餐飲界的人士與會。</span></p>
 <p><span> </span></p>
 <p><span>(Solo Trattoria)</span></p>
-<p><span><img alt="圖片 2" src="/assets/images/9407858602/1422385233-4219703533.jpg"/>  </span></p>
+<p><span><img alt="圖片 2" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9407858602/1422385233-4219703533.jpg"/>  </span></p>
 <p> </p>
 <p><span>(喔看到燉飯好朋友了)</span></p>
-<p><span><img alt="圖片 3" src="/assets/images/9407858602/1422385258-2480218738.jpg"/>  </span></p>
+<p><span><img alt="圖片 3" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9407858602/1422385258-2480218738.jpg"/>  </span></p>
 <p> </p>
 <p><span>(廚房裡為備料忙東忙西)</span></p>
-<p><span><img alt="圖片 4" src="/assets/images/9407858602/1422385280-1185304714.jpg"/> </span></p>
+<p><span><img alt="圖片 4" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9407858602/1422385280-1185304714.jpg"/> </span></p>
 <p> </p>
 <p><span>(這烤豬肉看起來好美味！)</span></p>
-<p><span><img alt="圖片 5" src="/assets/images/9407858602/1422385316-982068098.jpg"/> </span></p>
+<p><span><img alt="圖片 5" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9407858602/1422385316-982068098.jpg"/> </span></p>
 <p> </p>
 <p><span>(開始做最後的準備)</span></p>
-<p><span><img alt="圖片 6" src="/assets/images/9407858602/1422385341-2138542938.jpg"/>  </span></p>
+<p><span><img alt="圖片 6" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9407858602/1422385341-2138542938.jpg"/>  </span></p>
 <p> </p>
 <p> </p>
 <p><span>從Fried Plantains開始，一種在古巴很常見的配餐。</span></p>
@@ -71,10 +71,10 @@ post_id: '9407858602'
 <p><span>這東西不甜，配酸辣醬汁享用還滿有意思的。</span></p>
 <p> </p>
 <p><span>(Fried Plantains)</span></p>
-<p><span><img alt="圖片 7" src="/assets/images/9407858602/1422385361-1376387940.jpg"/> </span></p>
+<p><span><img alt="圖片 7" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9407858602/1422385361-1376387940.jpg"/> </span></p>
 <p> </p>
 <p><span>(Mojito)</span></p>
-<p><span><img alt="圖片 8" src="/assets/images/9407858602/1422385384-1777589520.jpg"/>  </span></p>
+<p><span><img alt="圖片 8" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9407858602/1422385384-1777589520.jpg"/>  </span></p>
 <p> </p>
 <p> </p>
 <p><span>走到廚房裡一堆人為備料忙東忙西，</span></p>
@@ -86,10 +86,10 @@ post_id: '9407858602'
 <p><span>Solo Trattoria以後也要提供Panini了嗎？</span></p>
 <p> </p>
 <p><span>(嘉平大廚與Cadco CPG-10)</span></p>
-<p><span><img alt="圖片 9" src="/assets/images/9407858602/1422385404-61846928.jpg"/> </span></p>
+<p><span><img alt="圖片 9" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9407858602/1422385404-61846928.jpg"/> </span></p>
 <p> </p>
 <p><span>(認真工作的男人最帥了！)</span></p>
-<p><span><img alt="圖片 10" src="/assets/images/9407858602/1422385425-2490118873.jpg"/>  </span></p>
+<p><span><img alt="圖片 10" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9407858602/1422385425-2490118873.jpg"/>  </span></p>
 <p> </p>
 <p> </p>
 <p><span>可能是剛開始不熟練，最初的Cubanos偏乾硬，</span></p>
@@ -98,7 +98,7 @@ post_id: '9407858602'
 <p><span>不管哪一種都有刻意要求甜味。</span></p>
 <p> </p>
 <p><span>(今天最終版本的Cubanos)</span></p>
-<p><span><img alt="圖片 11" src="/assets/images/9407858602/1422385450-3960097798.jpg"/>  </span></p>
+<p><span><img alt="圖片 11" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9407858602/1422385450-3960097798.jpg"/>  </span></p>
 <p> </p>
 <p> </p>
 <p> </p>

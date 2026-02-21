@@ -9,7 +9,7 @@ original_url: https://kuni.pixnet.net/blog/posts/9315398396
 post_id: '9315398396'
 ---
 
-<div class="article-content-inner" id="article-content-inner"><p><span><img alt="圖片 1" src="/assets/images/9315398396/1385568207-3465376378.jpg"/><br/></span></p>
+<div class="article-content-inner" id="article-content-inner"><p><span><img alt="圖片 1" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9315398396/1385568207-3465376378.jpg"/><br/></span></p>
 <p><span>(脆皮前腿肉佐台灣時蔬)</span></p>
 <p> </p>
 <p><span>--------------</span><br/><span> L'ATELIER de Joël Robuchon 侯布雄法式餐廳</span><br/><span> 地址：台北市松仁路28號五樓</span><br/><span> 電話：(02)8729-2628</span><br/><span> 時間：11:30~21:30</span><br/><span>--------------</span></p>
@@ -33,23 +33,23 @@ post_id: '9315398396'
 <p><span>強烈建議別續過頭，不然絕對撐不到主餐。</span></p>
 <p> </p>
 <p><span>(Robuchon的麵包籃可是非常強大的呢)</span></p>
-<p><span><img alt="圖片 2" src="/assets/images/9315398396/1385568172-521952569.jpg"/> </span></p>
+<p><span><img alt="圖片 2" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9315398396/1385568172-521952569.jpg"/> </span></p>
 <p> </p>
 <p><span>(開胃小點)</span></p>
-<p><span><img alt="圖片 3" src="/assets/images/9315398396/1385568182-3009796762.jpg"/> </span></p>
+<p><span><img alt="圖片 3" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9315398396/1385568182-3009796762.jpg"/> </span></p>
 <p> </p>
 <p><span>前餐選服務生推薦的薄切章魚，</span></p>
 <p><span>由於超薄的厚度，巧妙將肉質的嚼勁減緩到最低。</span></p>
 <p><span>配上微酸油醋醬汁，清爽度均衡，開胃效果奇佳。</span></p>
 <p> </p>
 <p><span>(前餐三選一：章魚薄片佐鮭魚卵及檸檬油醋)</span></p>
-<p><span><img alt="圖片 4" src="/assets/images/9315398396/1385568195-3701597535.jpg"/>  </span></p>
+<p><span><img alt="圖片 4" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9315398396/1385568195-3701597535.jpg"/>  </span></p>
 <p> </p>
 <p><span>(前餐三選一：低溫水波蛋佐松茸)</span></p>
-<p><span><img alt="圖片 5" src="/assets/images/9315398396/1385568189-3075797801.jpg"/></span></p>
+<p><span><img alt="圖片 5" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9315398396/1385568189-3075797801.jpg"/></span></p>
 <p> </p>
 <p><span>(前餐三選一：板燒烏賊鑲時蔬搭配西班牙臘腸與小辣椒)</span></p>
-<p><span> <img alt="圖片 6" src="/assets/images/9315398396/1385568202-2224152972.jpg"/>  </span></p>
+<p><span> <img alt="圖片 6" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9315398396/1385568202-2224152972.jpg"/>  </span></p>
 <p> </p>
 <p><span>主餐是脆皮前腿肉佐台灣時蔬，</span></p>
 <p><span>上頭一大片白色的則是廚房裡自製的炸豬皮。</span></p>
@@ -59,13 +59,13 @@ post_id: '9315398396'
 <p><span>另外那所謂的台灣時蔬可不是隨便配的，</span><span>藉著巧思完整融入主餐裡頭。</span></p>
 <p> </p>
 <p><span>(脆皮前腿肉佐台灣時蔬)</span></p>
-<p><span><img alt="圖片 7" src="/assets/images/9315398396/1385568207-3465376378.jpg"/></span></p>
+<p><span><img alt="圖片 7" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9315398396/1385568207-3465376378.jpg"/></span></p>
 <p> </p>
 <p><span>(絕佳的口感表現與搭配)</span></p>
-<p><span> <img alt="圖片 8" src="/assets/images/9315398396/1385568215-3964618886.jpg"/> </span></p>
+<p><span> <img alt="圖片 8" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9315398396/1385568215-3964618886.jpg"/> </span></p>
 <p> </p>
 <p><span>(今天的薯泥有些偏膩，但還是很香)</span></p>
-<p><span><img alt="圖片 9" src="/assets/images/9315398396/1385568221-4063655867.jpg"/>  </span></p>
+<p><span><img alt="圖片 9" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9315398396/1385568221-4063655867.jpg"/>  </span></p>
 <p> </p>
 <p><span>至此980台幣已有讓人值回票價的感覺。</span></p>
 <p><span>心滿意足之餘才想起還能選份甜點，不禁驚呼一下。</span></p>
@@ -73,13 +73,13 @@ post_id: '9315398396'
 <p><span>蛋糕不用說依舊強大無比，</span><span>但今天的可麗露水準失常了，可惜。</span></p>
 <p> </p>
 <p><span>(有了三樓頂尖的甜點Salon de The幫忙撐腰，五樓還怕什麼XD)</span></p>
-<p><span><img alt="圖片 10" src="/assets/images/9315398396/1385568226-2133126870.jpg"/> </span></p>
+<p><span><img alt="圖片 10" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9315398396/1385568226-2133126870.jpg"/> </span></p>
 <p> </p>
 <p><span>(飯後飲料：卡布)</span></p>
-<p><span><img alt="圖片 11" src="/assets/images/9315398396/1385568231-3253750899.jpg"/> </span></p>
+<p><span><img alt="圖片 11" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9315398396/1385568231-3253750899.jpg"/> </span></p>
 <p> </p>
 <p><span>(水準失常的可麗露)</span></p>
-<p><span><img alt="圖片 12" src="/assets/images/9315398396/1385568243-18055177.jpg"/>  </span></p>
+<p><span><img alt="圖片 12" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9315398396/1385568243-18055177.jpg"/>  </span></p>
 <p> </p>
 <p><strong><span>這價位在信義區的貴婦百貨裡能吃到這樣子的等級，</span></strong><strong><span>沒什麼好挑的了。</span></strong></p>
 <p><span><strong>滿足的心情順著電扶梯，逐漸消逝在停車場。</strong></span></p>

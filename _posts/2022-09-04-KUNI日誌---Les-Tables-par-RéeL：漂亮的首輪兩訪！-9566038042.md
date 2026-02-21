@@ -9,7 +9,7 @@ original_url: https://kuni.pixnet.net/blog/posts/9566038042
 post_id: '9566038042'
 ---
 
-<div class="article-content-inner" id="article-content-inner"><p><span><img alt="圖片 1" src="/assets/images/9566038042/1662137527-2242252033-g.jpg"/></span></p>
+<div class="article-content-inner" id="article-content-inner"><p><span><img alt="圖片 1" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137527-2242252033-g.jpg"/></span></p>
 <p><span>(知名的英國國菜炸魚薯條)</span></p>
 <p> </p>
 <p><span>-----</span><br/><span>Les Tables par ReeL</span><br/><span>地址：台北市大同區貴德街75-2號</span><br/><span>電話：(02)2550-5651</span><br/><span>時間：11:00~17:30 Sat</span><br/><span> 11:30~17:30 Tue~Fri</span><br/><span>-----</span></p>
@@ -21,17 +21,17 @@ post_id: '9566038042'
 <p><br/><span>六月開幕沒多久就連兩訪，</span></p>
 <p><span>但沒時間寫文，直到兩三個月後才難產生出來。</span></p>
 <p><span>(門口)</span></p>
-<p><span><img alt="圖片 2" src="/assets/images/9566038042/1662137502-3481686728-g.jpg"/> </span></p>
+<p><span><img alt="圖片 2" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137502-3481686728-g.jpg"/> </span></p>
 <p><span>(桌位)</span></p>
-<p><span><img alt="圖片 3" src="/assets/images/9566038042/1662137502-829378168-g.jpg"/> </span></p>
+<p><span><img alt="圖片 3" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137502-829378168-g.jpg"/> </span></p>
 <p><span>(本日菜單)</span></p>
-<p><span><img alt="圖片 4" src="/assets/images/9566038042/1662137502-2216357107-g.jpg"/> </span></p>
+<p><span><img alt="圖片 4" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137502-2216357107-g.jpg"/> </span></p>
 <p><span>(飲料)</span></p>
-<p><span><img alt="圖片 5" src="/assets/images/9566038042/1662137500-1593647086-g.jpg"/> </span></p>
+<p><span><img alt="圖片 5" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137500-1593647086-g.jpg"/> </span></p>
 <p><span>(水杯)</span></p>
-<p><span><img alt="圖片 6" src="/assets/images/9566038042/1662137502-1903558030-g.jpg"/> </span></p>
+<p><span><img alt="圖片 6" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137502-1903558030-g.jpg"/> </span></p>
 <p><span>(Raven)</span></p>
-<p><span><img alt="圖片 7" src="/assets/images/9566038042/1662137500-2047353772-g.jpg"/></span></p>
+<p><span><img alt="圖片 7" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137500-2047353772-g.jpg"/></span></p>
 <p><strong><span>用餐內容</span></strong><br/><span>-----</span><br/><strong><span>首訪：</span></strong><br/><span>麵包籃(NT.160)</span><br/><span>生火腿布拉塔鮮酪(NT.420)</span><br/><span>鮪魚醬嫩里肌(NT.280)</span><br/><span>加泰隆尼亞式大筍(NT.420)</span><br/><span>非洲雞(NT.480)</span><br/><span>黑松露蛋乳麵(NT.580)</span><br/><span>炸魚薯條青豆泥(NT.480)</span></p>
 <p><strong><span>二訪：</span></strong><br/><span>麵包籃(NT.160)</span><br/><span>楓糖孢子甘藍</span><br/><span>米蘭式燉牛肚(NT.320)</span><br/><span>胡椒乳酪麵(NT.280)</span><br/><span>-----</span></p>
 <p> </p>
@@ -54,13 +54,13 @@ post_id: '9566038042'
 <p><a href="https://kuni.pixnet.net/blog/post/455976461-gr2%E6%97%A5%E8%AA%8C---reel%E6%B3%95%E5%BC%8F%E9%A4%90%E9%85%92%E9%A4%A8n%E8%A8%AA%EF%BC%9A%E4%BE%9D%E8%88%8A%E5%96%9C%E6%84%9B%E7%9A%84%E6%B3%95%E5%BC%8F" target="_blank"><strong><span>ReeL法式餐酒館N訪</span></strong></a></p>
 <p><a href="https://kuni.pixnet.net/blog/post/459174352-gr2%E6%97%A5%E8%AA%8C---reel%E6%B3%95%E5%BC%8F%E9%A4%90%E9%85%92%E9%A4%A82017%EF%BC%9A%E5%A4%A7%E8%86%BD%E5%86%92%E9%9A%AA%EF%BC%8C%E7%B5%95%E4%B8%8D" target="_blank"><strong><span>ReeL法式餐酒館2017</span></strong></a></p>
 <p><span>(麵包籃)</span></p>
-<p><span><img alt="圖片 8" src="/assets/images/9566038042/1662137507-1949552784-g.jpg"/> </span></p>
+<p><span><img alt="圖片 8" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137507-1949552784-g.jpg"/> </span></p>
 <p><span>(生火腿Burrata)</span></p>
-<p><span><img alt="圖片 9" src="/assets/images/9566038042/1662137507-3870160426-g.jpg"/> </span></p>
+<p><span><img alt="圖片 9" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137507-3870160426-g.jpg"/> </span></p>
 <p><span>(個人超愛)</span></p>
-<p><span><img alt="圖片 10" src="/assets/images/9566038042/OG.82d07092.png"/> </span></p>
+<p><span><img alt="圖片 10" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/OG.82d07092.png"/> </span></p>
 <p><span>(有蜂蜜味的啤酒)</span></p>
-<p><span><img alt="圖片 11" src="/assets/images/9566038042/1662137512-3217024214-g.jpg"/></span></p>
+<p><span><img alt="圖片 11" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137512-3217024214-g.jpg"/></span></p>
 <p><span><strong>這兩頓吃下來，</strong></span></p>
 <p><span><strong>發現Raven在新餐廳初期一口氣放了不少歐洲的傳統菜系。</strong></span></p>
 <p><span>這對大多數主廚而言，是一件吃力不討好的苦差事。</span></p>
@@ -75,17 +75,17 @@ post_id: '9566038042'
 <p><span><strong>尖部香，根部juicy，一根蘆筍兩樣情，</strong></span></p>
 <p><span>再搭配Chef自製蝦夷蔥醬，好吃。</span></p>
 <p><span>(Espárragos a la plancha)</span></p>
-<p><span><img alt="圖片 12" src="/assets/images/9566038042/1662137516-3615231269-g.jpg"/> </span></p>
+<p><span><img alt="圖片 12" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137516-3615231269-g.jpg"/> </span></p>
 <p><span>(Google上查這道菜該有的樣子)</span></p>
-<p><span><img alt="圖片 13" src="/assets/images/9566038042/1662311544-2170605210-g.jpg"/>  </span></p>
+<p><span><img alt="圖片 13" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662311544-2170605210-g.jpg"/>  </span></p>
 <p><span>(非洲雞)</span></p>
-<p><span><img alt="圖片 14" src="/assets/images/9566038042/1662137517-1925492800-g.jpg"/> </span></p>
+<p><span><img alt="圖片 14" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137517-1925492800-g.jpg"/> </span></p>
 <p><span>(風味強勁)</span></p>
-<p><span><img alt="圖片 15" src="/assets/images/9566038042/1662137517-2973759661-g.jpg"/> </span></p>
+<p><span><img alt="圖片 15" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137517-2973759661-g.jpg"/> </span></p>
 <p><span>(黑松露蛋乳麵)</span></p>
-<p><span><img alt="圖片 16" src="/assets/images/9566038042/1662137522-2635182084-g.jpg"/> </span></p>
+<p><span><img alt="圖片 16" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137522-2635182084-g.jpg"/> </span></p>
 <p><span>(松露好香啊)</span></p>
-<p><span><img alt="圖片 17" src="/assets/images/9566038042/1662137522-2927992051-g.jpg"/></span></p>
+<p><span><img alt="圖片 17" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137522-2927992051-g.jpg"/></span></p>
 <p><span>炸魚薯條更有趣了，可能是講到英國第一個會聯想到的料理。</span></p>
 <p><span><strong>"Fish and Chips"號稱英國國菜，</strong></span></p>
 <p><span>最早出現在十九世紀中期，</span></p>
@@ -100,21 +100,21 @@ post_id: '9566038042'
 <p><span><strong>Raven退而求其次，使用圓鱈，但起碼配料除薯條外還放了碗豆。</strong></span></p>
 <p><span><strong>一旁擺一瓶"麥芽醋"，沾著一起喫，感受一下英倫風情。</strong></span></p>
 <p><span>(Fish and Chips)</span></p>
-<p><span><img alt="圖片 18" src="/assets/images/9566038042/1662137527-2242252033-g.jpg"/> </span></p>
+<p><span><img alt="圖片 18" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137527-2242252033-g.jpg"/> </span></p>
 <p><span>(才隔兩天菜單就換了)</span></p>
-<p><span><img alt="圖片 19" src="/assets/images/9566038042/1662137361-2653890533-g.jpg"/> </span></p>
+<p><span><img alt="圖片 19" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137361-2653890533-g.jpg"/> </span></p>
 <p><span>(貼心的冰桶)</span></p>
-<p><span><img alt="圖片 20" src="/assets/images/9566038042/1662137364-2836436058-g.jpg"/> </span></p>
+<p><span><img alt="圖片 20" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137364-2836436058-g.jpg"/> </span></p>
 <p><span>(麵包籃)</span></p>
-<p><span><img alt="圖片 21" src="/assets/images/9566038042/1662137364-1161049711-g.jpg"/> </span></p>
+<p><span><img alt="圖片 21" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137364-1161049711-g.jpg"/> </span></p>
 <p><span>(原來是使用這款橄欖油)</span></p>
-<p><span><img alt="圖片 22" src="/assets/images/9566038042/1662137363-4279163837-g.jpg"/> </span></p>
+<p><span><img alt="圖片 22" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137363-4279163837-g.jpg"/> </span></p>
 <p><span>(楓糖孢子甘藍)</span></p>
-<p><span><img alt="圖片 23" src="/assets/images/9566038042/1662137364-3303054651-g.jpg"/> </span></p>
+<p><span><img alt="圖片 23" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137364-3303054651-g.jpg"/> </span></p>
 <p><span>(米蘭式燉牛肚)</span></p>
-<p><span><img alt="圖片 24" src="/assets/images/9566038042/1662137365-3177364239-g.jpg"/> </span></p>
+<p><span><img alt="圖片 24" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137365-3177364239-g.jpg"/> </span></p>
 <p><span>(味道希望再更強些)</span></p>
-<p><span><img alt="圖片 25" src="/assets/images/9566038042/1662137367-3528907064-g.jpg"/></span></p>
+<p><span><img alt="圖片 25" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137367-3528907064-g.jpg"/></span></p>
 <p><span><strong>胡椒乳酪麵是古老而又傳統的義大利麵。</strong></span></p>
 <p><span><strong>源自羅馬，更正確說是羅馬Lazio區。</strong></span></p>
 <p><span>原名"Pasta Cacio e Pepe"，</span></p>
@@ -131,11 +131,11 @@ post_id: '9566038042'
 <p><span>Pecorino是一種鹹度相當重的乳酪，</span></p>
 <p><span>所以此次在實嚐上也如同預期，鹹度稍嫌單一。</span></p>
 <p><span>(Pasta Cacio e Pepe)</span></p>
-<p><span><img alt="圖片 26" src="/assets/images/9566038042/1662137373-3989346509-g.jpg"/> </span></p>
+<p><span><img alt="圖片 26" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137373-3989346509-g.jpg"/> </span></p>
 <p><span>(道地的作法)</span></p>
-<p><span><img alt="圖片 27" src="/assets/images/9566038042/1662137373-1271610870-g.jpg"/> </span></p>
+<p><span><img alt="圖片 27" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137373-1271610870-g.jpg"/> </span></p>
 <p><span>(漂亮的al dente)</span></p>
-<p><span><img alt="圖片 28" src="/assets/images/9566038042/1662137374-416040104-g.jpg"/></span></p>
+<p><span><img alt="圖片 28" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137374-416040104-g.jpg"/></span></p>
 <p><span>來這裡吃飯大部分都是開心的。</span></p>
 <p><span>Raven在料理上的堅持，</span></p>
 <p><span>盡力維持道地與正統，獲得不少硬派吃貨們的青睞。</span></p>
@@ -155,7 +155,7 @@ post_id: '9566038042'
 <p><span><strong>但遇到對餐廳如此不尊重的"奧客"，我也是會發火的。</strong></span></p>
 <p><span>算了，有些難聽的用詞還是先拿掉，留點口德也好。</span></p>
 <p><span>(看到這一幕你能不生氣嗎！？)</span></p>
-<p><span><img alt="圖片 29" src="/assets/images/9566038042/1662137372-8364003-g.jpg"/></span></p>
+<p><span><img alt="圖片 29" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662137372-8364003-g.jpg"/></span></p>
 <p> </p>
 <p><span><strong>2022九月三訪：</strong></span></p>
 <p><strong><span>來自羅馬的脆皮豬肉捲令人讚嘆，</span></strong></p>
@@ -173,27 +173,27 @@ post_id: '9566038042'
 <p><span>舒芙蕾更妙，橢圓的形狀，烤得極為成功。</span></p>
 <p><strong><span>裡頭香草醬調得極好，就算肚子已撐還是要努力消滅它。</span></strong></p>
 <p><span>(九月黑板菜單)</span></p>
-<p><img alt="圖片 30" src="/assets/images/9566038042/1662975179-2614826479-g.jpg"/></p>
+<p><img alt="圖片 30" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662975179-2614826479-g.jpg"/></p>
 <p><span>(新的常態性菜單)</span></p>
-<p><span><img alt="圖片 31" src="/assets/images/9566038042/1662975178-2640366522-g.jpg"/> </span></p>
+<p><span><img alt="圖片 31" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662975178-2640366522-g.jpg"/> </span></p>
 <p><span>(Raven)</span></p>
-<p><span><img alt="圖片 32" src="/assets/images/9566038042/1662975177-1767957900-g.jpg"/> </span></p>
+<p><span><img alt="圖片 32" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662975177-1767957900-g.jpg"/> </span></p>
 <p><span>(麵包籃)</span></p>
-<p><span><img alt="圖片 33" src="/assets/images/9566038042/1662975180-589976916-g.jpg"/> </span></p>
+<p><span><img alt="圖片 33" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662975180-589976916-g.jpg"/> </span></p>
 <p><span>(沙拉)</span></p>
-<p><span><img alt="圖片 34" src="/assets/images/9566038042/1662975180-2432320345-g.jpg"/> </span></p>
+<p><span><img alt="圖片 34" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662975180-2432320345-g.jpg"/> </span></p>
 <p><span>(法式烤田螺)</span></p>
-<p><span><img alt="圖片 35" src="/assets/images/9566038042/1662975181-959901925-g.jpg"/> </span></p>
+<p><span><img alt="圖片 35" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662975181-959901925-g.jpg"/> </span></p>
 <p><span>(小牛胸腺)</span></p>
-<p><span><img alt="圖片 36" src="/assets/images/9566038042/1662975198-2076249294-g.jpg"/> </span></p>
+<p><span><img alt="圖片 36" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662975198-2076249294-g.jpg"/> </span></p>
 <p><span>(請了助手)</span></p>
-<p><span><img alt="圖片 37" src="/assets/images/9566038042/1662975202-392137529-g.jpg"/> </span></p>
+<p><span><img alt="圖片 37" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662975202-392137529-g.jpg"/> </span></p>
 <p><span>(Porchetta)</span></p>
-<p><span><img alt="圖片 38" src="/assets/images/9566038042/1662975203-3671989441-g.jpg"/> </span></p>
+<p><span><img alt="圖片 38" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662975203-3671989441-g.jpg"/> </span></p>
 <p><span>(嗆辣手工麵)</span></p>
-<p><span><img alt="圖片 39" src="/assets/images/9566038042/1662975214-2723468285-g.jpg"/> </span></p>
+<p><span><img alt="圖片 39" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662975214-2723468285-g.jpg"/> </span></p>
 <p><span>(舒芙蕾)</span></p>
-<p><span><img alt="圖片 40" src="/assets/images/9566038042/1662975217-3867802744-g.jpg"/></span></p>
+<p><span><img alt="圖片 40" src="https://raw.githubusercontent.com/kuni-tw/images/www/assets/images/9566038042/1662975217-3867802744-g.jpg"/></span></p>
 <p><span><strong>我的FB粉絲團：</strong></span><br/><span><strong><a href="https://www.facebook.com/KUNIwithGourmet" target="_blank">https://www.facebook.com/KUNIwithGourmet</a></strong></span></p>
 <p> </p>
 <p><span>by Samsung S21+ and KUNI</span></p>
